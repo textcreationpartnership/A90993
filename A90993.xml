@@ -1,0 +1,1201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mans delinquencie attended by divine justice intermixt with mercy. Display'd in a sermon to the Right Honourable the House of Lords assembled in Parliament, in the Abby Church at Westminster, Novemb. 25. 1646. being the solemn day of their monethly fast. / By William Price, B.D. Pastor of Waltam-Abby; and one of the Assembly of Divines.</title>
+            <author>Price, William, d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90993</idno>
+            <idno type="STC">Wing P3401</idno>
+            <idno type="STC">Thomason E363_1</idno>
+            <idno type="STC">ESTC R201226</idno>
+            <idno type="EEBO-CITATION">99861757</idno>
+            <idno type="PROQUEST">99861757</idno>
+            <idno type="VID">113901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113901)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E363[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mans delinquencie attended by divine justice intermixt with mercy. Display'd in a sermon to the Right Honourable the House of Lords assembled in Parliament, in the Abby Church at Westminster, Novemb. 25. 1646. being the solemn day of their monethly fast. / By William Price, B.D. Pastor of Waltam-Abby; and one of the Assembly of Divines.</title>
+                  <author>Price, William, d. 1666.</author>
+               </titleStmt>
+               <extent>[12], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.R. for Richard Whitaker, at the signe of the Kings Arms in S. Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print on verso of first leaf.</note>
+                  <note>Imperfect: trimmed at fore-edge, affecting marginal notes.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ezra IX, 6-8 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:113901:1"/>
+            <p>
+               <hi>Die Veneris</hi> 26. <hi>Novembris</hi> 1646.</p>
+            <p>IT is this day ordered by the LORDS in Parlia<g ref="char:EOLhyphen"/>ment aſſembled, That this Houſe gives thanks to Mr. <hi>Price,</hi> one of the Aſſembly of Divines, for his great pains taken in his Sermon preached on the laſt Faſt day before the Lords of Parliament, in the Abby Church Weſtminſter: And he is here<g ref="char:EOLhyphen"/>by deſired to print and publiſh the ſame; which is to be printed onely by authority under his own hand.</p>
+            <closer>
+               <signed>John Brown Cleric. Parliament.</signed>
+            </closer>
+         </div>
+         <div type="appointment">
+            <p>I appoint <hi>Richard Whitaker</hi> to print this Sermon.</p>
+            <closer>
+               <signed>William Price.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:113901:1" rendition="simple:additions"/>
+            <p>Mans Delinquencie Attended by DIVINE JVSTICE Intermixt with MERCY.</p>
+            <p>Diſplay'd in a Sermon to the Right Honourable the Houſe of LORDS Aſſem<g ref="char:EOLhyphen"/>bled in Parliament, in the Abby Church at Weſtminſter, <hi>Novemb.</hi> 25. 1646. being the ſolemn day of their monethly Faſt.</p>
+            <p>By <hi>William Price,</hi> B.D. Paſtor of <hi>Waltam-Abby;</hi> and one of the Aſſembly of Divines.</p>
+            <q>Non erubeſcat poenitentiam agere, qui non erubuit poenitenda committere. <bibl>
+                  <hi>Aug.</hi>
+               </bibl>
+            </q>
+            <q>
+               <hi>Let not him bluſh to repent, who hath not bluſhed to commit that that is to be repented of.</hi>
+            </q>
+            <p>LONDON, Printed by <hi>R. R.</hi> for <hi>Richard Whitaker,</hi> at the ſigne of the Kings Arms in S. <hi>Pauls</hi> Church-yard. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113901:2"/>
+            <pb facs="tcp:113901:2"/>
+            <head>To the Right Honourable the Houſe of PEERS aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was enough to impoſe that piece of penance on your ſelves, to give this unpoliſhed Sermon the hearing; but it is much you ſhould put your eyes to further expence of pa<g ref="char:EOLhyphen"/>tience. But ſince you are pleaſed to deſire (which to me is a command) my hand againſt my ſelf, by teſtifying my weakneſſes in the expoſing this mean <hi>diſcourſe</hi> to publick view,
+<pb facs="tcp:113901:3"/>I obey. But then give him, whom you have ſo far emboldned, leave to minde you, that the Sermons your Lordſhips have heard, or ſhould have heard, are to be reckoned in the inventorie of your receipts from your God.
+<note place="margin">
+                  <hi>Au<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſtis, lauda<g ref="char:EOLhyphen"/>ſtis, verba recepi<g ref="char:EOLhyphen"/>ſtis verba reddi<g ref="char:EOLhyphen"/>diſtis; Deo gra<g ref="char:EOLhyphen"/>tias, at haec fo<g ref="char:EOLhyphen"/>lia ſunt, modo fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctus quae<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur.</hi> Aug.</note> To hear, and to read, is but to carry in; you are alſo to bring forth; not only the leaves, or the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſſomes of good words, or reſoluti<g ref="char:EOLhyphen"/>ons; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fruit: Thoſe of your ſphear enter the liſts of compariſon with <hi>vines</hi> and <hi>olives,</hi>
+               <note place="margin">Jud. 9 8, 9, 10.</note> the choiſeſt of trees in <hi>Jothams</hi> parable: and if a vine be fruitleſſe,
+<note place="margin">Ezek. 15.23.</note> it is worthleſſe, and wil not yeeld a pin to hang an hat on. You are fixed in an higher orb, and attract all eyes unto you: You, as a ſnail, or the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the ſea, leave a ſhining track <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>: Your example hath a potent <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that ſtand on the lower grou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> multiplie imitaters, as one <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a ſtone in the water,
+<note place="margin">
+                  <hi>Non qua <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, ſed qua itur.</hi> Sen.</note> begets an hundred. Infe<g ref="char:EOLhyphen"/>riors love to go the way Superiors uſe to go, rather then the way they ſhovld go; and care not much though they periſh, ſo it be on ſuch credit. Beſides, the greatneſſe of the
+<pb facs="tcp:113901:3"/>perſonage greaters the guilt;
+<note place="margin">
+                  <hi>Omne animi vi<g ref="char:EOLhyphen"/>tium tanto con<g ref="char:EOLhyphen"/>ſpectins.</hi> Juv.</note> the height of the exalted heightens their ſin. As wee ſay in Arithmetick, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, in the firſt and loweſt place is but one, in the ſecond place 10, in the third 100; and ſo higher, and higher. And as the whiteſt ivory makes the blackeſt coal; the moſt generous wine the ſharpeſt vinegar; as the ſhrewdeſt tempeſts come of<g ref="char:EOLhyphen"/>ten out of the warmeſt corners, ſo the great<g ref="char:EOLhyphen"/>eſt injuſtice, and moſt unworthy demeanor wee fear from Nobility and potency dege<g ref="char:EOLhyphen"/>nerated. Governours actions are like <hi>Jere<g ref="char:EOLhyphen"/>mie</hi>'s figs, or <hi>Origen</hi>'s Works; if bad, very bad. Greatneſſe diſ-joyn'd from Good<g ref="char:EOLhyphen"/>neſſe is rather a ſwelling excreſcence, then a true, reall magnitude: You are to give ac<g ref="char:EOLhyphen"/>count at the great Audit-day, not onely as Chriſtians; but as Nobles, as Judges, as Se<g ref="char:EOLhyphen"/>nators, as Magiſtrates. 'Twere good you contemplated with an holy emulation the preſidents of untainted Religion, unſway<g ref="char:EOLhyphen"/>ed integrity, incorrupt juſtice, inconquer<g ref="char:EOLhyphen"/>able patience, facile moderation, ſurpaſ<g ref="char:EOLhyphen"/>ſing temperance, that the ſacred Scripture
+<pb facs="tcp:113901:4"/>and other Stories are ſertile in.</p>
+            <p>When you read that <hi>Manlius Torquatus</hi> took off his own ſonnes head for irregular running afore a command, though his in<g ref="char:EOLhyphen"/>tents were fair, and his deſigne ſucceſſefull; think with your ſelves, that it is not fit to ſuffer your Deputies to be occentrick, arbi<g ref="char:EOLhyphen"/>trary, unlimited in their proceedings, where no Order or Ordinance of yours enables them. When you read that <hi>Quintus Cince<g ref="char:EOLhyphen"/>nius</hi> was taken from the plough, and made Dictator of Rome; and when hee had done his Countrey the utmoſt ſervice hee concei<g ref="char:EOLhyphen"/>ved hee could arrive to, hee returned to his former meanneſſe; it will quench ſoaring ambition in you. When you finde in Story, that <hi>Lucius Valerius,</hi> a Roman Conſul, and ſo dying, having long the cuſtody of the Treaſury of Rome, was yet ſo poor at his death, that the Common-wealth was fain to defray the charges of his Funerall; you will,
+<note place="margin">Exod. 18.21.</note> like <hi>Jethro</hi>'s Juſticers, hate that ignoble dry drunkenneſſe, covetouſneſs. When you meet it ſtoried of <hi>Fabritius,</hi> and teſtified by
+<pb facs="tcp:113901:4"/>his enemy, that the Sun could ſooner be ju<g ref="char:EOLhyphen"/>ſtled out of his Orbe, then he out of the Orbe of Juſtice; you cannot but be diſpaſ<g ref="char:EOLhyphen"/>ſionate, unprepoſteſt, unprejudiced Judges. Inſtice is painted with ſcales in her hand, not to weigh gold, but right. When a wo<g ref="char:EOLhyphen"/>man kneeld to <hi>Francis</hi> I of France for Ju<g ref="char:EOLhyphen"/>ſtice; Stand up (ſaid he) woman, Juſtice I owe thee; if thou beg any thing, ask mer<g ref="char:EOLhyphen"/>cie. When you read that <hi>Alphonſus</hi> King of Arragon read over the Bible with Commen<g ref="char:EOLhyphen"/>taries fourteen times, you will ſtudy the Scri<g ref="char:EOLhyphen"/>pture more. Oh let not purblind Heathens, that had no better conduct then the glow<g ref="char:EOLhyphen"/>wormes twilight of divine Nature, and un<g ref="char:EOLhyphen"/>renewed Reaſon; Let not blindfolded Pa<g ref="char:EOLhyphen"/>piſts caſt you behind them, and riſe in judge<g ref="char:EOLhyphen"/>ment againſt you. God expects you ſhould outvie and outdoe the moſt advanced Mora<g ref="char:EOLhyphen"/>liſts: Your helps Heavenward are more and mightier then theirs, your light cleerer, your obligations to God more, and greater: God hath honoured you above others, who are but of the ſame mold with others, as the
+<pb facs="tcp:113901:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:113901:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:113901:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:113901:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:113901:7"/>ground of the Rainbow is but a common ex<g ref="char:EOLhyphen"/>halation, onely the Sun it is that gilds and enamells it with ſuch various colours.
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dete quod in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> eſt hanc <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oriam ad illum ferre, a quo eſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> vul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rdere, aut certe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rdi ab ea.</hi> Ber. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. p. 207 <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>minium non <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cipere, ſed da<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e dignitati.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſtin. <hi>l.</hi> 6.</note> Study as much as in you lies, to returne honour to him from whom you had your honour, if you would not loſe your honour, or at leaſt be loſt by it. <hi>Epaminondas</hi> ſo carried his ho<g ref="char:EOLhyphen"/>nour, that he ſeemed rather to contribute luſtre to, then to borrow it from his honour. It will be worthy you to be a dignity to your dignity: An undeſerving Perſon honoured, is but as a dwarfe, ſet him on <hi>Oſſa</hi> or <hi>Olympuc,</hi> he is but a dwarfe ſtill; A worthy perſon ho<g ref="char:EOLhyphen"/>noured is a <hi>Coloſſus,</hi> great, though in the bot<g ref="char:EOLhyphen"/>tome of a pit. Your honour it a Talent with which God betruſts you, which if you em<g ref="char:EOLhyphen"/>baſe, he that gave it can recall it. Dignity, like oyle is airy, and ſlippery. <hi>Henry</hi> the 4. the Emperour, who fought two and fifty pitcht battells, was compelled by pover<g ref="char:EOLhyphen"/>rie to Petition for a Prebends place at <hi>Spyre</hi> to maintain him in his old age. And <hi>Comminez</hi> ſaith, that he ſaw the Duke of Exceſter, who married King <hi>Edward</hi> the
+<pb facs="tcp:113901:7"/>fourths ſiſter, begging bare-foot in the Low-Countries: But I forget my ſelf; and ſhould crave pardon, and Apologize for the length both of my Sermon and Dedication, but that would but make me the longer. May you live and die full of Honour: May you be Inſtruments of Gods Glory here, and Veſſells of eternall glory here<g ref="char:EOLhyphen"/>after, is, and ſhall be the Prayer of</p>
+            <closer>
+               <signed>Your Lordſhips moſt humbly levoted ſervant in the Go<g ref="char:EOLhyphen"/>ſpel of Jeſus Chriſt, <hi>WILLIAM PRICE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:113901:8"/>
+            <pb n="1" facs="tcp:113901:8"/>
+            <head>A SERMON before the Houſe of LORDS on the laſt Monethly Faſt-day.</head>
+            <epigraph>
+               <bibl>
+                  <hi>EZRA 9.6, 7, 8.</hi>
+               </bibl>
+               <q>
+                  <p>
+                     <hi>VER. 6.</hi> And I ſaid, O my God, I am aſhamed,
+<note place="margin">Diverſe Tranſlation.</note> and bluſh <hi>(or,</hi> I am confounded and aſhamed) to lift up my face <hi>(or,</hi> my eyes) unto thee, my God: for our iniquities are in<g ref="char:EOLhyphen"/>creaſed over our head, and our treſpaſſe is grown up unto the heavens.</p>
+                  <p>
+                     <hi>V. 7.</hi> Since <hi>(or,</hi> from) the dayes of our fathers have we been in a great treſpaſſe even unto this day: And for our ini<g ref="char:EOLhyphen"/>quities have we, our Kings, and our Prieſts been delivered into the hands of the Kings of the lands, to the ſword, to captivity, and to the ſpotle, and to confuſion of face, as it is <hi>(or,</hi> appeareth) this day.</p>
+                  <p>
+                     <hi>V. 8.</hi> And now for a little ſpace <hi>(or,</hi> a moment) grace hath been ſhewed from the Lord our God, to leave us <hi>(or,</hi> in cauſing) a remnant to eſcape; and to give <hi>(or,</hi> in giving us) a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage <hi>(or,</hi> ſervitude.)</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His is a gloomy day of publick humili<g ref="char:EOLhyphen"/>ation;
+<note place="margin">Context.</note> and the argument of this Chap<g ref="char:EOLhyphen"/>ter (on a branch whereof my lot is now fallen) is drooping, and heavines.
+<note place="margin">Ver. 5.</note> The people indeed, we find trembling (in the next Chapter) for the immoderate raine;
+<note place="margin">Chap. 10.9.</note>
+               <pb n="2" facs="tcp:113901:9"/>for it ſeems the clouds then diſpenſed their treaſures too faſt, as now they do: But a dunghilly worldling can howl on his bed under a loſſe or croſſe: But our <hi>Ezra</hi> mourns more for the blackneſſe, then the burning of the coale of ſin. A formaliſt may ſome<g ref="char:EOLhyphen"/>time feel a legall fit, a pang of ſorrow for his owne ſins: but <hi>Ezra</hi> laments the miſ-carriages of others; the people of Iſrael, the Prieſts, the Levits, the Prin<g ref="char:EOLhyphen"/>ces and Rulers,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er. 1.2.</note> who were all imbarqued in that de<g ref="char:EOLhyphen"/>linquency that he deplores. <hi>Ezra's</hi> humiliation be<g ref="char:EOLhyphen"/>gan within, but ended not there: His ſorrow-preſt heart finds a vent in all the ſolemn dreſs, &amp; equipage that grief uſes to aſſume, and put on; laceration of garments,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 3.4, 5.</note> plucking the hair from his head, and beard, penſively ſitting down with ſilence, ſtupefaction, aſto<g ref="char:EOLhyphen"/>niſhment until the evening. And leſt his paſſion ſhold be interpreted an immaſculating, ſullen ſtupidity, &amp; amazed dulneſſe, rather then an active repentance, (which ought to be a fruit-bearing-tree, &amp; not a dead log) he raiſes and rowſes himſelfe, and betakes him<g ref="char:EOLhyphen"/>ſelfe to his knees, and ſpreads out his hands heaven<g ref="char:EOLhyphen"/>ward (the uſuall viſible demonſtrations of the height of devotion) and offers the fruit of his lips, powring out his ſoul, clothing his ſad apprehenſions withaery, but ſolid and melting expreſſions, breathing forth his complaints to him who onely could relieve him, in a prayer that here is memorized and conveyd to poſterity, diſtilling from his own pen. It is recorded of him,
+<note place="margin">Chap. 7.6.</note> that hee was a <hi>prompt Scribe:</hi> His tongue was as the pen of a ready writer when he commenc'd, and preſented this ſuit at the throne of grace; and his pen is as a tongue to report it to ſucceeding genera<g ref="char:EOLhyphen"/>tions
+<pb n="3" facs="tcp:113901:9"/>as an exemplary modell, or platform to ſteer us in putting up our petitions on ſemblable emer<g ref="char:EOLhyphen"/>gent occaſions. <hi>And I ſaid, O my God,</hi> &amp;c. And thus is the Text allied to the Context.</p>
+            <p>If you now pleaſe (Right Honourable,
+<note place="margin">Text.</note> and the reſt beloved in our Saviour) to ſee how the words that lie afore us ſhine with their own native, without borrowed luſtre,
+<note place="margin">Summe, Epitomie.</note> They are conſiderable under the notion of a prayer; an ordinance, that if duly man<g ref="char:EOLhyphen"/>aged, can open and ſhut heaven, binde and looſen the hands of the Omnipotent, blaſt deſignes, coun<g ref="char:EOLhyphen"/>termine mines, command, countermand men, tie up divels, throw Rome into Tiber: a duty that ſancti<g ref="char:EOLhyphen"/>fies faſting, as faſting quickens and imps the wings of it.</p>
+            <p>In which prayer the Petitioner draws himſelf and his people with a black coale, <hi>ver.</hi> 6.7.
+<note place="margin">Anatomis. Parts.</note> but limns his God with orient colours, <hi>ver.</hi> 8. vilifying, nullifying man; or if any diminutive can be added below a<g ref="char:EOLhyphen"/>baſement it ſelf: but magnifying God.</p>
+            <p n="1">1. Hee decries himſelf and <hi>Iſrael,</hi> diſcovering his ſorrow by the impreſſion of his ſhame, and the ex<g ref="char:EOLhyphen"/>preſſion of their Nationall miſery.</p>
+            <p n="1">1. The impreſſion of his ſhame, <hi>ver.</hi> 6. <hi>O my God, I am confounded,</hi> &amp;c.</p>
+            <p n="2">2. The expreſſion of his and <hi>Iſraels</hi> miſery, in a ſelf-arraignment, and a ſelf-condemnation.</p>
+            <p n="1">1. His ſelf-arraignment appears in drawing up a large indictment made up of an ingenuous confeſſi<g ref="char:EOLhyphen"/>on, and an heightning aggravation.</p>
+            <p n="1">1. A confeſſion of their ſin under the varied and reiterated language of <hi>iniquities,</hi> and <hi>treſpaſſes;</hi> em<g ref="char:EOLhyphen"/>phaticall
+<pb n="4" facs="tcp:113901:10"/>and comprehenſive titles.</p>
+            <p n="2">2. The aggravation of thoſe tranſgreſſions, By</p>
+            <p n="1">1. The dimenſions of them; height and depth.</p>
+            <p>The continued quantity, the magnitude, great, greatned.</p>
+            <p>The diſcrete quantity, or multitude; <hi>increaſt,</hi> multiplied.</p>
+            <p n="2">2. The cuſtomary inveterateneſſe; <hi>From the daies of our fathers to this day.</hi>
+            </p>
+            <p n="3">3. The Epidemicalneſſe, and ſpreading univer<g ref="char:EOLhyphen"/>ſality; the guilt of <hi>Kings</hi> and <hi>Prieſts</hi> is mentioned here, <hi>ver.</hi> 7. And if we caſt our eyes back to the firſt, and ſecond <hi>verſes,</hi> we ſhall find <hi>Levits, People</hi> and <hi>Ru<g ref="char:EOLhyphen"/>lers</hi> all put into this bill of attainder.</p>
+            <p>Yet he contents not himſelf with this ſelf-arraign<g ref="char:EOLhyphen"/>ment; but erects a Tribunall within his own breſt, and thence he paſſes an impartial judgement on him<g ref="char:EOLhyphen"/>ſelf, and the reſt involved and engulft in this blame: <hi>For our iniquities have wee been delivered up.</hi>
+            </p>
+            <p>Delivered; To whom? To what?</p>
+            <p n="1">1. To whom?
+<note place="margin">Homo homini lupus.</note> To men; and one man is natural<g ref="char:EOLhyphen"/>ly a wolfe to another; and thoſe men potent, <hi>Kings;</hi> and thoſe many; and they ethnicks, heatheniſh, the <hi>Kings of the nations.</hi>
+            </p>
+            <p n="2">2. To what delivered? <hi>To ſword, to captivity, to ſpoil, to confuſion of face;</hi> and that not immi<g ref="char:EOLhyphen"/>nent, but incumbent; not feared, but felt; all too apparent; <hi>As it is</hi> (or <hi>appears</hi>) <hi>this day.</hi> So different tranſlations have it.</p>
+            <p n="2">2. Having thus depreſt man,
+<note place="margin">Root.</note> he exalts God in his moſt magnetick,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> attractive, amiable attribute, <hi>Grace;</hi> amplified by the fruit growing on that root;
+<note place="margin">Fruit.</note> 
+               <hi>reſcue,
+<pb n="5" facs="tcp:113901:10"/>preſervation; cauſing a remnant to eſcape:</hi> And <hi>ſettlement;
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> giving us a nail in his holy place.</hi> And theſe favours re<g ref="char:EOLhyphen"/>ceiving their grace and gloſſe from thoſe comfort<g ref="char:EOLhyphen"/>able <hi>ends</hi> that God level'd at;
+<note place="margin">End.</note> the <hi>lightning their eyes, and reviving their hearts in their ſervitude.</hi>
+            </p>
+            <p>This is the Anatomie, theſe the lineaments of the Text. Which by this time you may perceive, corre<g ref="char:EOLhyphen"/>ſponds and may aptly entitle it ſelf to the times, and the time; to this day, and audience, being compo<g ref="char:EOLhyphen"/>ſed of <hi>Rulers,</hi> and <hi>people;</hi> the parties mentioned in this Chapter. May the Text prove as profitable, as it is ſeaſonable.</p>
+            <p>Here is a large Vintage; I cannot ſtand to pluck every grape; I muſt preſent them to you by clu<g ref="char:EOLhyphen"/>ſters: and (like our Geographers) ſet down a line for a River, and a ſpot for a whole Country; here being ſuch an ocean, a continent of matter under my hands.</p>
+            <p n="1">1. I take my riſe from <hi>Ezra</hi>'s decrying, and vilify<g ref="char:EOLhyphen"/>ing himſelf, and <hi>Iſrael:</hi> and therein from the <hi>impreſsi<g ref="char:EOLhyphen"/>on</hi> of his ſhame; <hi>And I ſaid, O my God, I am aſhamed,
+<note place="margin">Shame.</note> and bluſh</hi> (or as other Tranſlations render it, <hi>I am confoun<g ref="char:EOLhyphen"/>ded, and aſhamed</hi>) <hi>to lift up mine eyes to thee, my God.</hi>
+            </p>
+            <p>Both are agreeable to the Originall,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> that uſes two words, importing <hi>ſhame, bluſhing, confuſion of face,</hi> or <hi>eyes,</hi> the ſeat of ſhame.</p>
+            <p>Shame is ſometimes a vice, ſometimes a puniſh<g ref="char:EOLhyphen"/>ment, ſometimes a vertue: A vice,
+<note place="margin">
+                  <hi>Rubor quo ſe contra pudorem muniebat.</hi> In A<g ref="char:EOLhyphen"/>gric. Epiſt. 11.</note> as <hi>Tacitus</hi> writes of <hi>Domitians</hi> bluſhing, it was a ſhame, whereby hee fortified himſelf againſt ſhame. As <hi>Seneca</hi> ſaith of <hi>Sylla, He was never more to be dreaded, then when he bluſht.</hi> Sometimes ſhame is a puniſhment; as at the end of
+<pb n="6" facs="tcp:113901:11"/>the ſeventh verſe. But here in <hi>Ezra</hi> it is a vertue; a ſhame whereof he needed not be aſhamed.</p>
+            <p>Shame hath its ſourſe within, cauſed either by ſelf-conſciouſneſſe,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cita ſudant <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ecordia culpa.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ven.</note> when a guilty ſoul ſweats with reflecting on it ſelf: Or, from a piercing apprehen<g ref="char:EOLhyphen"/>ſion of others unworthineſſe, which was <hi>Ezra</hi>'s mo<g ref="char:EOLhyphen"/>tive in the Text; he was aſhamed, becauſe <hi>Iſrael</hi> was not aſhamed of their mungrill matches.
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 1.</note> This ſhame was not his accuſer, but compurgatour: He enters a caveat againſt them by the colouring of his cheek.</p>
+            <p>The badge of ſhame or modeſty is bluſhing,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uſhing. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iog. Laert.</note> the tranſ-fuſion of a vermilion thorow the face: which ſally of the blood into the cheeks we call the colour of vertue. Though it be oft an infirmity; yet oftner an index of ingenuity, as thiſtles ſpeak the ground fertil that bears them.</p>
+            <p>
+               <hi>Confuſion</hi> (which in ſome Tranſlations is inſerted here) is the meridian,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onfuſion of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce.</note> zenith, verticall point of ſhame, it can mount no higher; As ſhame tied up the peoples tongues when they were argued of halting between two opinions,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> King. 18.21.</note> they <hi>anſwered not a word;</hi> and <hi>Joſhuah</hi>'s tongue when <hi>Iſrael</hi> was foil'd at Ai, <hi>What ſhall I ſay?</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſ. 7.8.</note> this is that confuſion here ſpoken of; and this poſſeſſes <hi>Ezra</hi> too: <hi>O my God,</hi> (ſaith hee) <hi>I am confounded,</hi> at a ſtand, filled with aſtoniſhment, that <hi>Iſrael</hi> ſhould ſo degenerate and degrade themſelves. So planet-ſtrook he was, that hee could not, durſt not lift up his eyes. His looks were demiſſe, his eyes ſtaked to the ground,
+<note place="margin">Luk. 18.13.</note> as the Publicans, that <hi>would not lift up ſo much as his eyes to heaven.</hi>
+            </p>
+            <p>And yet this ſhame of <hi>Ezra</hi> delivers him not over to deſpondency, or deſpair; for twice for failing in a
+<pb n="7" facs="tcp:113901:11"/>breath hee beſpeaks God his; <hi>O my God, O my God.
+<note place="margin">Gen. 3.8, 10.</note> Adams</hi> ſhame drove him from God; <hi>Ezra</hi>'s drives him to God: it faſtens his hold, ſo that hee applies God the cloſer to him, <hi>O my God.</hi>
+            </p>
+            <p>Which preſident commends this note to us; the pearl, the point lies above ground, That</p>
+            <p>
+               <hi>They that are at ods with ſin becauſe it is ſin,
+<note place="margin">1. Obſervation.</note> will bluſh even at other mens ſins. Ezra</hi> ſhared not in this particu<g ref="char:EOLhyphen"/>lar crime, that thus fils his heart with grief, and his face with ſhame. As in the Propheſie,
+<note place="margin">Iſa. 24 23.</note> the ſilver Moon is ſaid to be confounded, and the ſpotleſſe Sun to be aſhamed. And ſtars of the cleereſt beam, and firſt magnitude in the Church of God have been, and ought to be thus modeſt.
+<note place="margin">Jer. 50.12.</note> 
+               <hi>Your mother</hi> (ſaith God) <hi>ſhall be ſorely confounded, ſhee that bare you ſhall be aſhamed.</hi> Chriſtians apoſtacy is ſaid to put Chriſt to open ſhame. Were he on earth,
+<note place="margin">Heb. 6.6.</note> or now receptive of this paſſion, the ſins of men would put him to it. But meer men have more reaſon to bluſh for men:
+<note place="margin">Reaſons.</note> Whe<g ref="char:EOLhyphen"/>ther becauſe ſin is ſo ſhamefull in its own nature,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> ſo that the Scripture makes it enter the liſts of compa<g ref="char:EOLhyphen"/>riſon with the moſt ſordid things that earth can ſhew. Or,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> whether to acquit themſelves from the guilt of other mens ſins, which we make our own by not being affected with them. Or,
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> whether from others aberrations we are prompted to review our own na<g ref="char:EOLhyphen"/>turall leprous deformity, which we derived from our parents loins, and unhappily improved and expreſt, till God recall'd us to himſelf. Or, wee are minded,
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> that the ſeeds of the moſt prodigious ſins are in us; though grace reſtrain or mortifie them: Elſe a <hi>Si<g ref="char:EOLhyphen"/>mon Peter</hi> might prove a <hi>Simon Magus;</hi> a Saint a Di<g ref="char:EOLhyphen"/>vell;
+<pb n="8" facs="tcp:113901:12"/>every one of us a <hi>Saul,</hi> a <hi>Balaam,</hi> a <hi>Judas,</hi> a witch, a traitour to our Saviour. Theſe recoyling thoughts draw the colour into our cheeks.
+<milestone type="tcpmilestone" unit="unspecified" n="5"/> Or, whe<g ref="char:EOLhyphen"/>ther by command, counſell, connivence, or any o<g ref="char:EOLhyphen"/>ther way, wee have been acceſſary to others falls; ſince in religion all acceſſaries are principals.
+<milestone type="tcpmilestone" unit="unspecified" n="6"/> Or, whether it be that we conſider, that the ſacred name of God is blaſphemed, and the reputation of religi<g ref="char:EOLhyphen"/>on blaſted by black mouthes, as if it were but an empty, barren, ineffectuall ſpeculation, for the de<g ref="char:EOLhyphen"/>viations of the profeſſors thereof: which probably ſtirr'd <hi>Ezra</hi> in my Text: (ſuch a ſcandall is not to be expiated with tears of blood.) As the Duke of <hi>Ur<g ref="char:EOLhyphen"/>bins</hi> Painter being blamed for limning S. <hi>Peter</hi> and S. <hi>Paul</hi> high coloured, ſince faſting, mortification, labours, and watchings had diſcoloured and paled their cheeks, wittily and tartly replyed, That thoſe Apoſtles were wan indeed while they lived, but they now bluſh to ſee thoſe that pretend themſelves to be their ſucceſſors, to ſucceed them no otherwiſe then as a diſeaſe doth health, or night day. All theſe Reaſons juſtifie this bluſhing we ſpeak of.</p>
+            <p>But oh,
+<note place="margin">Application. 1. Conviction.</note> How many degrees diſtant from this tem<g ref="char:EOLhyphen"/>per of <hi>Ezra</hi>'s are thoſe, who are ſo far from a modeſt reſentment of others ſins, that they never ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nge colour when they are convicted of their own! That can tear Gods ſacred Name, diſmember his Son be<g ref="char:EOLhyphen"/>tween their teethes, out-face the Sun, Magiſtrate, Miniſter in ſwiniſh drunkenneſſe, goatiſh luſt, ſa<g ref="char:EOLhyphen"/>vage oppreſſions, and what not, that would infect the air but to name? And yet are frontleſſe: Like the contriver of the golden Legend; on whom a
+<pb n="9" facs="tcp:113901:12"/>Papiſt could paſſe this verdict,
+<note place="margin">Iſa. 8.4. Jer. 3.3 Jer. 5.3.</note> That hee had a leaden heart, and a brazen face. We read of <hi>a brew of braſſe;</hi> of a <hi>whores forehead;</hi> of <hi>faces harder then rock;</hi> we have whole quarries of them; thoſe impudent wretches died not without iſſue. Among all ſtations and ranks of perſons that expoſtulation is not impertinent, <hi>Were they aſhamed, when they had committed abominations?
+<note place="margin">Jer. 8.12.</note> Nay, they were not aſhamed, neither could they bluſh.</hi>
+            </p>
+            <p>Nay, wee are fallen on an age, into which thoſe monſters have tranſmitted by a kind of tranſmigra<g ref="char:EOLhyphen"/>tion, their ſpirits, contemporaries to S. <hi>Auſtine,</hi> of whom he thus complains,
+<note place="margin">
+                  <hi>Quid dignum'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vituperie nifi vi<g ref="char:EOLhyphen"/>tium? Ego n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vituperarer, vi<g ref="char:EOLhyphen"/>tioſior fiebarn.</hi> Conf.</note> 
+               <hi>Though nothing be blamable but ſin, I, leſt I ſhould be blamed, was fain to be more ſinfull; &amp; I belied my ſelf, that I was guilty of what I never commit<g ref="char:EOLhyphen"/>ted, leſt the more innocent I was, the more deſpicable I might appear.</hi> We are aſhamed not to be ſhameleſſe: At leaſt, aſhamed of what wee ſhould count our crown, reli<g ref="char:EOLhyphen"/>gion, profeſſion. We are aſhamed of our glory,
+<note place="margin">Phil. 3.18.19.</note> and <hi>glory in</hi> our <hi>ſhame,</hi> as heirs to thoſe proſtitutes that extorted tears from S. <hi>Pauls</hi> eyes but to name. Wee have ſwarms of thoſe that will with triumph, trum<g ref="char:EOLhyphen"/>pet forth how many they have plundred, oppreſt, ground to powder, ruin'd by their power; having no better plea then that of the wolfe to the lamb, <hi>Thou hast a better cauſe, but I have better teeth:</hi> boaſting how many unwary onus they have over-reacht by flight of brain; with that hell-bred Proverb in their mouthes, <hi>Plain dealing is a jewell, but he that uſeth it ſhall die a beggar</hi> (and yet it is a wonder, there ſhould be ſo many beggars, and ſo few plain dealing men): Brag<g ref="char:EOLhyphen"/>ging how many pliant ſouls, laden with ſin, led a way captive by luſt, they have inſnared, and ſubdued by
+<pb n="10" facs="tcp:113901:13"/>their blandiſhments. Which impudence is to let out ſin to uſe, to wind it up to the higheſt peg; and it is a link of the chain of ſin faſtned next to the gates of hell. And it is as irrationall, as if a felon ſhould boaſt of his fetters, a dog of his vomit, an infected perſon of his plague-ſore, or a poſſeſt demoniack of his divell.</p>
+            <p>Deer Chriſtians,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> if there be any ſhadow of inge<g ref="char:EOLhyphen"/>nuity in us,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unſell.</note> I truſt we ſhall rather take part with <hi>Ez<g ref="char:EOLhyphen"/>ra</hi> in the Text, bluſhing for others ſins, then thus in<g ref="char:EOLhyphen"/>ſolently proclaim our own (like Sodom).</p>
+            <p n="1">1.
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bortation. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 1.16.</note> Let us not be aſhamed of owning God: <hi>I am not aſhamed of the Goſpel of Chriſt</hi> (ſaith <hi>Paul).</hi> Nay, he points to his chain,
+<note place="margin">Tim. 1.16.</note> that hee bore for Chriſts cauſe, as children point where they are fine.
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edecoroſum <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aro ruenti ſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bducere.</note> The <hi>Celtes</hi> in <hi>Damaſcene</hi> thought it a diſgrace to withdraw them<g ref="char:EOLhyphen"/>ſelves from a falling wall: Let us be aſhamed to flinch from God, though all the world ſhould diſ<g ref="char:EOLhyphen"/>claim him. Our Lord and Maſter will at the laſt day be aſhamed of them that are now aſhamed of him, <hi>Mar.</hi> 8.38. Let us not bluſh in a good cauſe, where juſtice, or mercy challenges our reliefe, though ju<g ref="char:EOLhyphen"/>ſtice,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> or mercy ſhould paſſe for a crime among men. Let us bluſh rather for diſhonourable,
+<note place="margin">Exhortation.</note> diſhoneſt, ſcurrilous, ſubdolous, unworthy words, and actions: <hi>Then ſhals remember thy wayes,
+<note place="margin">Ezek. 16.61.</note> and be aſhamed,</hi> ſaith God to <hi>Iſrael.</hi>
+               <note place="margin">Motives.</note>
+            </p>
+            <p>What is paſt cannot be recall'd;
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> wee cannot be innocent, wee may be penitent: though wee can<g ref="char:EOLhyphen"/>not offer the ſpotleſſe lamb of <hi>blameleſneſſe;</hi> we may the turtles of <hi>penitency,</hi> our two eyes fill'd with ſhame and ſorrow.</p>
+            <p>
+               <pb n="11" facs="tcp:113901:13"/>We are aſhamed of bodily defects, of a ſummetry,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> diſproportion of parts, whereof wee are not guilty; wee are guilty of our ſpirituall deformity.
+<note place="margin">Num. 12.14.</note> As God argues to <hi>Moſes</hi> about his ſiſter <hi>Miriam; If her fa<g ref="char:EOLhyphen"/>ther had ſpit in her face, ſhould ſhee not have been aſhamed ſeven dayes?</hi> and now ſhee is a leper, let her be ſhut out ſeven dayes. So it holds by rules of equiva<g ref="char:EOLhyphen"/>lence; if wee be aſhamed of what wee are meerly paſſive in from our heavenly Father; why not much more for our ſin, wherein wee have been culpably active?</p>
+            <p>Even Nature (ſaith <hi>Tertullian</hi>) hath caſt a ſhame<g ref="char:EOLhyphen"/>faſtneſſe on all ſinfull evill.
+<milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <note place="margin">
+                  <hi>Omne malum p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dore perfudit: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> malefici geſtiun latere, devitan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> apparere, trepi<g ref="char:EOLhyphen"/>dant deprehenſi<g ref="char:EOLhyphen"/>negant accuſati<g ref="char:EOLhyphen"/>ne torti quide<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> facile aut ſempe confitentur certe damnati maeren<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vel fato vel a ſtris imputant; nolunt ſuum eſſe quid malum ag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> noſcunt.</hi> In A<g ref="char:EOLhyphen"/>polog.</note> Malefactors delight to ſculk, refuſe to appear. <hi>They that are drunk, are drunk in the night:</hi> it was ſo in S. <hi>Pauls</hi> time, 1 <hi>Theſſ.</hi> 5.7. They tremble, and bluſh when apprehended; deny, when accuſed; when tortured, they ſeldome, or hardly confeſſe; condemn'd, they bemoan them<g ref="char:EOLhyphen"/>ſelves; and impute all, either to the malevolent a<g ref="char:EOLhyphen"/>ſpect of conjunction of Starres; or to the unreſiſt<g ref="char:EOLhyphen"/>ableneſſe of fate; they will not have guilt lie at their door, becauſe it is guilt, and opprobrious. Let but nature work, it will prompt us to this modeſty.</p>
+            <p>But <hi>grace,</hi> I hope, will be more expreſſive on us. <hi>I have ſeen Ephraim</hi> (ſaith God) <hi>ſmiting on his thigh;</hi> I have heard his moaning: and acknowledging him<g ref="char:EOLhyphen"/>ſelf aſhamed. It was melody in Gods ears, that con<g ref="char:EOLhyphen"/>feſſion; and that ſmiting a lovely proſpect in his eye, as appeares by Gods melting, paſſionate lan<g ref="char:EOLhyphen"/>guage about him in the next verſe. <hi>Ephraim is my deer ſon, my pleaſant child, I remember him ſtill; my bow<g ref="char:EOLhyphen"/>els are troubled for him; I will ſurely have mercy on him.</hi>
+               <pb n="12" facs="tcp:113901:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:113901:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:113901:15"/>And when the ſoule-wounded Publican durſt not look up to heaven,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clinavit ocu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, inclinavit <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lum.</note> heaven looked down to him; he declined his own eyes, and inclined Gods.</p>
+            <p>In a word:
+<milestone type="tcpmilestone" unit="unspecified" n="5"/> It were a ſtrange thing (ſaith <hi>Austin</hi>) if in our faces there ſhould be ſuch a diſtance between our forehead and tongue,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rum, ſi in fa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tamum inter<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llum inter <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntem, &amp; lin<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am ut frons <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n comprimat <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>guam.</hi> Cont. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. Pel l. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1.</note> that <hi>ſhame</hi> ſhould not ſup<g ref="char:EOLhyphen"/>preſſe and ſtifle a <hi>bold tongue.</hi> If <hi>Diodorus</hi> the Logi<g ref="char:EOLhyphen"/>cian fell down dead for ſhame, that he could not re<g ref="char:EOLhyphen"/>ſolve an Argument propounded to him: me-thinks if we were truly apprehenſive of the multitude and horridneſſe of our ſins; and the venome naturally inter woven with our ſoules, and our unkind abuſe of ſo gracious a God; we ſhould bluſh even to death; and be ready to creep into the grave, or hell it ſelf: we having too much cauſe to take <hi>Ezra</hi>'s words out of his mouth, and to appropriate them to our ſelves. <hi>For our iniquities are increaſt over our head,</hi> &amp;c.</p>
+            <p>I am fallen from the impreſſion of his ſhame,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> to the expreſſion of his and Iſraels miſery (ſet downe alſo as the ground of his ſhame) And that firſt in his ſelf arraignment and inditement filed againſt him<g ref="char:EOLhyphen"/>ſelf and Iſrael.
+<note place="margin">Inditement.</note> In which bill, his ingenuous confeſ<g ref="char:EOLhyphen"/>ſion comes firſt to hand;
+<note place="margin">Confeſſion.</note> diſplaying their ſins under the varied termes of iniquities and treſpaſſes.</p>
+            <p>Iniquity in our Engliſh Idiome ſounds injuſtice,
+<note place="margin">Iniquity.</note> inequality. Indeed what is more unjuſt then ſin? eſpecially the ſin of thoſe within the boſome of the Church: who are favor'd and ennobled with ſo ma<g ref="char:EOLhyphen"/>ny mercies and priviledges? <hi>Are not my waies equall? and are not your waies unequall?</hi>
+               <note place="margin">Ezek. 18.25.</note> As God expoſtulates with his people.</p>
+            <p>Treſpaſſes is the other title <hi>Ezra</hi> gives their ſins:
+<note place="margin">Treſpaſſe.</note>
+               <pb n="13" facs="tcp:113901:15"/>which imports breaking bounds, and due limits, and invading anothers right.</p>
+            <p>Another peece of the character of ſin: It leaps all hedges and ditches, breaks through all fences of re<g ref="char:EOLhyphen"/>lations or duties; and ſpares nor God, nor man.</p>
+            <p>But the Hebrew words run higher. The rootes whence they are borrowed, imply crookedneſſe, perverſeneſſe, ignominious baſeneſſe to be explo<g ref="char:EOLhyphen"/>ded and hiſt at; as the meanly verſed in that tongue know.</p>
+            <p>The Jewes were a crooked and perverſe genera<g ref="char:EOLhyphen"/>tion; as <hi>Steven</hi> ſtigmatizes them with it;
+<note place="margin">Act. 7.51.</note> offending againſt the cleereſt Revelation, and moſt remarke<g ref="char:EOLhyphen"/>able diſpenſations of Divine providence.</p>
+            <p>Truth is, all ſin is crookedneſſe, it being a de<g ref="char:EOLhyphen"/>flection from a ſtreight Rule: But there is more crookedneſſe and perverſeneſſe in ſome ſins and ſin<g ref="char:EOLhyphen"/>ners, then in others.</p>
+            <p>For perverſeneſſe, we are generally like Children, that becauſe they cannot have what they will, throw away what they have, ſlight what they may have: And will endure a world of hardſhip and redoubled blowes, rather then bend a knee, or give a word. There is a ſteely obſtinacy, a twiſted contrariety in our Nature. <hi>Abrahams</hi> children turned to ſtones,
+<note place="margin">Matth. 3.9.</note> to thwart <hi>John Baptiſt</hi> that ſpeaks of ſtones turn'd to children.</p>
+            <p>And for crookedneſſe, we ſo affect winding Me<g ref="char:EOLhyphen"/>anders, and turning Labyrinths in our waies,
+<note place="margin">Eſay 59.8.</note> that it may be ſaid to us, as it was in the apologue to the Serpent; that having his deaths wound, ſtretched out himſelf ſtreight. You ſhould have lived ſo; you
+<pb n="14" facs="tcp:113901:16"/>have lead a crooked life,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>oportuit ſic <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xiſſe.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um. 23.10.</note> and now you would die right and ſtreight, and go ſtrait to Heaven, like <hi>Ba<g ref="char:EOLhyphen"/>liam</hi> in his wiſh. But as the Tree falls, ſo it lies; if Death leave it crooked, ſuch will Judgement find it.</p>
+            <p>But I ſpend but a word on words;
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> and the varia<g ref="char:EOLhyphen"/>tion of them;
+<note place="margin">Aggravation.</note> here <hi>Ezra</hi> goes on to aggravate Iſraels ſinnes.</p>
+            <p>From the dimenſions of them firſt characteriz'd in four or five expreſſions.
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. <hi>Great;</hi> There is their continued quantity, their magnitude. 2. <hi>Increast, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Multiplyed;</hi> There is their diſcrete quantity, their multitude. 3. <hi>Over our heads.</hi> 4. <hi>Up to Heaven:</hi> There is their extenſion, as afore their intenſion. And all theſe are of diſtinct conſideration: for that may be great that multiplies not; and that may grow, which yet amounts not above our heads; and that may get above our heads, that yet aſcends not to Heaven. Their ſins were all this.</p>
+            <p n="1">1. <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>Great;</hi> Whether we eye that individual, par<g ref="char:EOLhyphen"/>ticular ſin,
+<note place="margin">Great.</note> whence <hi>Ezra</hi> took the hint of his La<g ref="char:EOLhyphen"/>mentation; the people of God matching with Ido<g ref="char:EOLhyphen"/>latrous wives, which ſtole and raviſht <hi>Solomons</hi> heart from his God:
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King. 11.</note> ſo ſtupifying and infatuating him, that, like a Bowle, he began to ſlugge toward the end of the Alley, neer his death, wracking even in the ſight of the Haven.
+<note place="margin">2 Cor. 6.15.16</note> A ſin which <hi>Paul</hi> calls un<g ref="char:EOLhyphen"/>equall yoaking, importing as great an aſuſtatous inconſiſtency, as between light and darkneſſe, righ<g ref="char:EOLhyphen"/>teouſneſſe and unrighteouſneſſe, Chriſt and Belial.</p>
+            <p>Or whether we contemplate their ſin in generall, it was great.</p>
+            <p>
+               <pb n="15" facs="tcp:113901:16"/>All ſin is great, being an offence of a great, an in<g ref="char:EOLhyphen"/>finite God. But yet ſins are of different magnitudes. It is a Stoicall fancy that they are equall. Nay, the ſame fins are greater or ſmaller in ſeverall perſons. If S. <hi>Peter</hi> had had S. <hi>Paul</hi>'s malice, and S. <hi>Paul</hi> had had S. <hi>Peter</hi>'s knowledge they had both committed the ſin againſt the holy Ghoſt. I ſhall but touch up<g ref="char:EOLhyphen"/>on the ingredients that make up a great ſin: becauſe I have far to go, and not much time to ſpend.</p>
+            <p>Sins are accounted great in Gods Geometry,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> that are committed againſt cleer light:
+<note place="margin">Joh. 15.22.</note> ſo haynous they are, that in compariſon Chriſt accounts other ſins none. A ſervant may unwarily ruſh on his maſter in the dark; but to tread on his foot, and to look him i'th' face, is inſufferable. Great knowledge greatens ſins: for knowledge is like the Unicornes horne, that doth well in a wiſe and good mans hand, but ill on a beaſts head.</p>
+            <p>Sins alſo againſt eminent mercies are great:
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> God had rather his mercy ſhould be unknown then ſlight<g ref="char:EOLhyphen"/>ed (ſaith <hi>Auguſtine</hi>) <hi>Do you requite God thus ye fooliſh peo<g ref="char:EOLhyphen"/>ple?</hi> faith <hi>Moſes,</hi> Deut. 32.6.
+<note place="margin">
+                  <hi>Gratiam neſciri maluit Deus, quam negligi.</hi> Aug.</note> To requite good for good is but humane; in requite evill for evill is car<g ref="char:EOLhyphen"/>nall; to requite good for evill is God-like; but to requite evill for good is diabolicall.</p>
+            <p>And ſins masked with a coverture of holineſſe;
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> as Iſraels were.
+<note place="margin">Ezck. 33.3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> And they are thence denominated an hypocritical Nation in one place. Such ſins are of a ſcarlet dye. There is no ſin to that of under a pretext of Religion;
+<note place="margin">1 Sam.</note> as <hi>David</hi> ſaid of <hi>Goliah</hi>'s ſword wrapt up in the linnen Ephod, <hi>there is none to that.</hi> Hypo<g ref="char:EOLhyphen"/>criſie we call double iniquity; and therefore the
+<pb n="16" facs="tcp:113901:17"/>puniſhment of the Hypocrite in hell is made the exemplar of the torment of the greateſt ſinners: <hi>they ſhall have their portion with hypocrites.</hi>
+               <note place="margin">Mat.</note>
+            </p>
+            <p>We had need to ſollicite God then,
+<note place="margin">Uſe.</note> that though this Jebuſite ſin will continue in our coaſts, our breaſts; that yet he would guard us from ſins, that lay waſte the Conſcience:
+<note place="margin">
+                  <hi>Vaſtare conſci<g ref="char:EOLhyphen"/>entiam.</hi> Pſal. 19.13.</note> 
+               <hi>Keep thy ſervant</hi> (prayes <hi>David</hi>) <hi>from preſumptuous ſins, ſo ſhall I be innocent from the great tranſgreſsion.</hi> It is now a great commendati<g ref="char:EOLhyphen"/>on to a man, if it may be ſaid of him (as <hi>Tacitus</hi> ſpeaks) that he is without crying vices,
+<note place="margin">Magis extra vi<g ref="char:EOLhyphen"/>tia, quam intra virtutes.</note> though not within vertue; and he that doth the leaſt miſchief, is a Saint. But I cannot inſiſt.</p>
+            <p>The ſecond expreſſion is,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> that ſins were not one<g ref="char:EOLhyphen"/>ly great, but did ſtill greaten; they were increaſt and multiplyed, both in magnitude and multitude: as it is charged on them,
+<note place="margin">Iſa. 1.4.</note> that they revolted more and more.</p>
+            <p>Firſt for the continued quantity;
+<note place="margin">Point.</note> Sin will great<g ref="char:EOLhyphen"/>en, and wax, and grow; like drops to a torrent, a ſlip to a wood, a ſpark to a flame: The meaſure fils a pace. Wee read of the fulneſſe of the Amorites ſins. In good wee are as conſcionable as children; wee care not how little we have for our money; we give God gold hard weight; a little religion on a knives point ſerves our turns; but wee never ſet a period to the bulk of ſin.
+<note place="margin">Jam. 1.14.15.</note> 
+               <hi>Luſt</hi> (ſaith S. <hi>James</hi>) <hi>having conceived, brings forth ſin,</hi> and ſo proceeds to finiſhing. Sin hath its <hi>conception,</hi> that's <hi>delight;</hi> and the <hi>formati<g ref="char:EOLhyphen"/>on,</hi> that's <hi>deſigne;</hi> and the <hi>birth,</hi> that's the <hi>acting;</hi> and <hi>cuſtome</hi> is the <hi>education</hi> of this brat; then follows a <hi>re<g ref="char:EOLhyphen"/>probate ſenſe;</hi> and the next ſtep is <hi>Hell.</hi> None declines
+<pb n="17" facs="tcp:113901:17"/>to the worſt at firſt, but gradually ſtep by ſtep;
+<note place="margin">
+                  <hi>Nemo fit rep<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> turpiſſim<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> Juven.</note> As Mariners ſetting ſayle, firſt loſe ſight of the ſhore, then of the houſes, then of the ſteeples; then of mountains, and land. And as thoſe that are way<g ref="char:EOLhyphen"/>laid by a conſumption, firſt loſe vigour, and then ſto<g ref="char:EOLhyphen"/>mack, and then colour.</p>
+            <p>Then the diſcrete quantity muſt not be omitted: <hi>Our iniquities are increaſt and multiplyed,</hi> So the Hebrew gives it: multiplyed even above Arithmetick; as ſparks out of the Ovens mouth.</p>
+            <p>Sins you ſee never go alone,
+<note place="margin">Obſervation.</note> but like the waves of the Sea, the end of the one is the beginning of ano<g ref="char:EOLhyphen"/>ther. <hi>David</hi> is a ſad in tance,
+<note place="margin">Iſa. 5.28.</note> he drew iniquity with cart-ropes, as <hi>Eſay</hi> phraſes it. Firſt he is idle; then he luſts after anothers wife, then he ſends for her, then violates her chaftity; when <hi>Uriah</hi> had but one Lamb in his boſome, and he had too many already: then he makes her Huſband drunk, then plots his death, making the man contributuary to his own death by bearing the letters to <hi>Joab,</hi> and drawes <hi>Joab</hi> alſo within the compaſſe of the guilt.</p>
+            <p>What need have we to attend that caution,
+<note place="margin">Application. Heb. 3.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Take heed ye be not hardned by the deceitfullneſſe of ſin?</hi> We know where we begin and ſet out in a ſin; but we know not where we ſhall end and take up. As no man can ſay he will let in ſo many pale<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulls of the Sea and no more. Many ſet up the trade of ſweat<g ref="char:EOLhyphen"/>ing with common interlocutory oathes, as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and troth; many began theeving with pins and pence; many drunkenneſſe with one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more then enough, many laſt with a glance of the eye, and never dream<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſhould ever be proſtituted to
+<pb n="18" facs="tcp:113901:18"/>thoſe prodigious extremities they after find them<g ref="char:EOLhyphen"/>ſelves almoſt irrecoverably ingulfed in. As when <hi>Pompey</hi> could not prevail with a City to billet his Ar<g ref="char:EOLhyphen"/>my with them, he yet perſwaded them to admit of a few weak maimed Souldiers, but thoſe recovered their ſtrength, and opened the gates to the whole Army. The divel courts us onely to lodge a ſin of infirmity, or two, and they gathering ſtrength, and ſinews, ſubdue us. It will be our wiſdom to nip ſin in the bloom, the bud, the firſt overture and ſug<g ref="char:EOLhyphen"/>geſtion; to kill this Cockatrice i' th' egge. For if we go with ſin one mile, it will compell us to go with it twaine: It will ſwell like the cloud <hi>Eliab</hi> ſaw, from the bigneſſe of a mans hand to ſuch an expanſion, that it will cover the sky: like the waters of the Sanctuary, that may at firſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>each, to the ankles, but in tract of time increaſe over our heads.</p>
+            <p n="3">3. Which is the third expreſſion, I'll but name it. Sin will mount above our heads,
+<note place="margin">Pſal. 38.4.</note> if it be ſuffer'd to take its courſe: Above our heads ſo as to uſurpe, and tyrannize over us, to depreſſe us, to render us con<g ref="char:EOLhyphen"/>temptible, and to lay our honour in the duſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. So over our heads, as to keep us down, ſo that we can<g ref="char:EOLhyphen"/>not look after our God. So above our heads, as to dull our braines, benight our underſtandings, and in<g ref="char:EOLhyphen"/>ſatuates us. God calls Iſrael a ſottiſh people. So a<g ref="char:EOLhyphen"/>bove our heads as to drown us in perdition; as the Apoſtle ſpeaks,
+<note place="margin">1. Tim. 6.9.</note> 
+               <hi>If God ſtep not in.</hi>
+            </p>
+            <p>Is it not better to keep it down,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Uſe.</note> then that ſin ſhould keep us under hatches, or our heads under water? Oh let us by faithfull approaches to our Chriſt, drown our ſins in the red ſea of his blood;
+<pb n="19" facs="tcp:113901:18"/>and in the waters of repentance, break the heads of theſe Dragons. Implore God for aſſiſtance, that ſin may not get heart-high in our affection, or head-high in our thoughts and fancy, and much leſſe gain ſuch a ſupremacy as to climb over our heads.</p>
+            <p n="4">4. A fourth expreſſion remains, <hi>Our treſpaſſe is grown up to the Heaven:</hi> Unto, not into the heavens. Sin was bred there in the Angels, but caſt downe thence, and ſhall never find the way back thither.
+<note place="margin">Rev. 21.2.</note> No unclean thing ſhall enter there. If it could, it would darken the Sun, put out the Moon, ſoale up the Conſtellations: But unto the heavens ſin is ſo daring bold to fly, whether to intercept the paſſage of our Prayers thither, or to ſtop the influence and the light of heaven from deſcending hither: or to knock at heaven gate to ſollicite for vengeance upon us. The ſin of Sodom we read had a cry;
+<note place="margin">Gen. 18.20. Gen. 4.10. John 1.2. Uſe.</note> and <hi>Abel</hi>'s blood a cry: And Ninevehs ſin came up afore God. And our ſins oft out-voice our prayers.</p>
+            <p>We have no remedy but to ſend our faith and prayers afore them to heaven to prepoſſeſſe our Sa<g ref="char:EOLhyphen"/>viour, that he may be our Maſter of requeſts, our Advocate, Mediator, Interceſſor, a s<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reene be<g ref="char:EOLhyphen"/>tween Gods ſcorching wrath, and us. That he may plead for us both with words and wounds,
+<note place="margin">
+                  <hi>Quot vulners, tot <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> Heb 12.24.</note> for his blood ſpeaks better things then the blood of <hi>Abel;</hi> The one calls for vindictive Juſtice; the other for pardoning mercy, and obtains it; yea even for over<g ref="char:EOLhyphen"/>grown ſins.</p>
+            <p n="2">2. Which inveteratenes of ſin is a ſecond aggrava<g ref="char:EOLhyphen"/>tion of Iſraels iniquity; <hi>From the daies of our fathers have we been in a greet treſpaſse unto this day.</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:113901:19"/>
+               <hi>Sin is of a cleaving adhering nature.</hi>
+               <note place="margin">Point.</note> It ſeiſes us be<g ref="char:EOLhyphen"/>times. O Lord, when was I ever innocent (asketh <hi>Auſtin</hi>) And it will not leave us; if we welcom, and bed and board it.
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eb. 12.1. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 13.23.</note> It hangs faſt on (ſaith <hi>Paul</hi>) It clings as ſwarthy blacknes to the Aethiope, or ſpots to the Leopard. As the leproſie to the houſe, that ſome<g ref="char:EOLhyphen"/>times could not be ſcraped off;
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev. 14 41.45.</note> but the ſtones muſt be changed: nay ſometimes the houſe demoliſh'd. Sin, like the Ivy on the wall, will not wholy be ex<g ref="char:EOLhyphen"/>tirpated,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 2.22.</note> till theſe earthen walls of ours be pluckt down by death. Not ſope, nitre; no nor fire and brim frone can waſh off ſin. It will not ſound a re<g ref="char:EOLhyphen"/>treat: Nay, when the body declines, ſin gathers ſtrength like the weary Oxe,
+<note place="margin">Bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laſſus fortiut ſigit pedem.</note> that takes the firmer footing. <hi>Meſſaline</hi> was wearied, but never ſatisfied with her baſeneſſe.</p>
+            <p>And thats the reaſon that the paine of hell are e<g ref="char:EOLhyphen"/>ternall,
+<note place="margin">
+                  <hi>Laſſata, non ſati<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ta. Peccator peccat in ſuo aeterno.</hi> Greg. Uſe. <hi>Dilecta delicta.</hi>
+               </note> becauſe we would ſin eternally, would God lengthen out our lives here to eternity.</p>
+            <p>Oh let us importune our God to cut the thread of our wickednes, that we may not ſpin it out to ſuch a length. Let us bet<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> break off this match, and ſue out a divorce between us, and our darling ſins: That God may never have occaſion to ſay of us, as of Iſ<g ref="char:EOLhyphen"/>rael<g ref="char:punc">▪</g> Jer. 22.21. <hi>This hath been thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from thy Youth.</hi>
+               <note place="margin">Dan. 4.27.</note> Break off thy ſins, ſaith <hi>Daniel</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar,</hi> cut this Gordian knot.</p>
+            <p>It is not yet too late the door of grace is ſtill open,
+<note place="margin">Motive.</note> There is hope in Iſrael concerning this;
+<note place="margin">Ezra 10.2.</note> as it follows. Nay <hi>David</hi> hath no better <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for obtaining mercy then the greatnes of his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord be mercifull to my iniquity,
+<note place="margin">Pſal. 25.11.</note> for it is great.</p>
+            <p>
+               <pb n="21" facs="tcp:113901:19"/>The greater our ſins are, the greater need we have of mercy. No man flies his Counſel becauſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cauſe is great and intricate, but plies him the more: The more dangerous diſeaſes are, the more Phyſici<g ref="char:EOLhyphen"/>ans are ſought to. Some offenders are like <hi>Jairus</hi> his daughter, newly dead, by conſent to ſome unjuſti<g ref="char:EOLhyphen"/>fiable act; Others, like he Widdows ſon of Naim, carrying out to burial, by acting unworthy things. Others, like <hi>Lazarus</hi> foure daies dead in the grave, ſtinking, and putrifying by living in ſinne, with the ſtone of cuſtome rouled upon them. Let none of theſe deſpair; Chriſt can raiſe all theſe, as he did thoſe. Deferre not Reformation on this ground: <hi>mane</hi> is Gods Adverbe, but the divels Verbe; God ſaith early, he faith tarry: But though thou haſt drawn out the line of ſin to an undue length, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not away thy confidence. Chriſt is good at an old ſore, all cures are alike to him. Go to him by the paces of faith in the words of <hi>Ambroſe;</hi>
+               <note place="margin">O utinam ad mo<g ref="char:EOLhyphen"/>nimentum meum digneris accede<g ref="char:EOLhyphen"/>re, S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> illachryna<g ref="char:EOLhyphen"/>verit pro me vi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> Oh that thou wouldſt be pleaſed to approch my monument, where my ſoule is incloſed; wouldſt thou but weep over me, as thou didſt over <hi>La<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rus,</hi> I ſhould live. That voice that commands thee to come forth, muſt en<g ref="char:EOLhyphen"/>able thee, as him, to ariſe and walk his wayes.</p>
+            <p n="3">3. But <hi>Ezra</hi> calls us away to conſider another ag<g ref="char:EOLhyphen"/>gravation of <hi>Iſraels</hi> ſin: It was <hi>epidemicall,</hi> ſpreading univerſall, tainting all of all ſorts; hee includes him<g ref="char:EOLhyphen"/>ſelf, <hi>Wee;</hi> mentions here <hi>Kings,</hi> and <hi>Prieſtrs;</hi> but in the beginning of the Chapter, <hi>Prophets, People,</hi> and <hi>Rulers.</hi> He doth not frigi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly aſſert, they are ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers;
+<note place="margin">particulatizing</note> they would all uninforced have yeelded that: but hee takes the boldneſſe to lay the particularity of
+<pb n="22" facs="tcp:113901:20"/>their offence, the height, greatneſſe, multiplicity of ſins at every one of their doors.</p>
+            <p>
+               <hi>He that ſpeake promiſcuouſly,
+<note place="margin">Obſervation.</note> and indiſtinctly to all, ſpeak to none.</hi> Reproofs and threats are oft in Scripture ſtiled burdens, and yet truly a burden is eaſily born away with a common ſhoulder. But when wee <hi>lay the axe to the root of the tree,</hi> and make our addreſſes from the Pulpit, or otherwiſe, to ſpeciall ranks of perſons, and particularize their ſinnes; when <hi>Nathan</hi> comes up cloſe to <hi>David,</hi> with <hi>Thou art the man;</hi> this touches to the quick: And though a <hi>David</hi> may take it acceptably at our hands, yet moſt will kick and fling.
+<note place="margin">
+                  <hi>Praedicare eſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>hil aliud quam derivare in ſe furorem populi; Irritare crabro<g ref="char:EOLhyphen"/>nes.</hi> Plaut.</note> 
+               <hi>Luther</hi> ſaid knowingly, <hi>To preach is nothing elſe but to derive peoples fury on our heads;</hi> to ſtirre a waſps neſt; to pull an old houſe upon us. How impatient were <hi>Stevens</hi> hearers, <hi>Act.</hi> 7.34? And <hi>Pauls Act</hi> 22.22.? And in thoſe glaſſes we may ſee our own tem<g ref="char:EOLhyphen"/>per. But what though? Wee muſt not betray our own ſouls, nor yours by our ſilence. If you could take order that the biting texts of Scripture had an expurgatory. Index paſſed on them from heaven; wee poor ſpirited men are too prone to deſire to ſleep in a whole akin.
+<note place="margin">
+                  <hi>Si de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emus, ti<g ref="char:EOLhyphen"/>memus deleri.</hi> Aug. <hi>De turpi ſilen<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> demnabitur.</hi>
+               </note> But if wee blot out theſe paſ<g ref="char:EOLhyphen"/>ſages, wee ſhall be blotted out of the book of life. And while they are ſtanding here, a Miniſter may be dam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d for his baſe ſilence. You will pardon us. Man may threaten priſon; but God threatens hell. And truly a cock may have leave to wake a lion: It is pity great men ſhould be let goe quietly to hell more then the meaner. <hi>Ezra,</hi> here leads the way: He ſwallowe not his words, as if he had gone too far already in his inditement, but undauntedly goes on
+<pb n="23" facs="tcp:113901:20"/>from an accuſation to a condemnation of all <hi>Iſrael,</hi> Rulers, and ruled; high, and low; ſupreme, and ſub<g ref="char:EOLhyphen"/>ordinate; <hi>Rulers, Prieſts, and People</hi> as acceſſary to their own miſery. <hi>For our iniquities have we, our Kings, and our Prieſts been delivered.</hi>
+            </p>
+            <p n="2">2. Obſerve, That <hi>ſelf-accuſation,
+<note place="margin">Self-condem<g ref="char:EOLhyphen"/>nation. Obſervation.</note> and ſelf-condemna<g ref="char:EOLhyphen"/>tion are two ſymptomes of a repentance that need not be ve<g ref="char:EOLhyphen"/>pented of.</hi> They are marks ever to be found on cordi<g ref="char:EOLhyphen"/>all ſelf-abaſers;
+<note place="margin">Gen. 18.27.</note> as wee may collect from their lan<g ref="char:EOLhyphen"/>guage in Scripture, and elſewhere: <hi>Abram</hi> cries, <hi>I am but duſt and aſbes that ſpeak to thee.</hi> Duſt minds us of mortality, aſhes of fire; as if he had deſerved one and t'other. <hi>Jacob;
+<note place="margin">Gen. 32.10. Pſal. 73.</note> I am leſſe then the leaſt of all thy mer<g ref="char:EOLhyphen"/>cies. David; So brutiſh was I, even as a beaſt before thee. John</hi> Baptiſt; <hi>I am not worthy to unlooſe his ſhee.</hi> The Centurion; <hi>I am unworthy thou ſhouldſt come under my roof.</hi> S. <hi>Peter; Depart from me, O Lord, I am a ſinfull man.</hi> St. <hi>Paul; The leaſt of Saints, the greateſt of ſinners.</hi> B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Hooper</hi> in our Martyrology; <hi>Lord, I am hell, then art heaven: I a ſink of ſinne, thou a fount of grace. Brad<g ref="char:EOLhyphen"/>ford; I am <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deafe as a ſtone as dumb as a nail; an hard<g ref="char:EOLhyphen"/>hearted, a painted hypocrite,</hi> as hee ſubſcribes ſome of his Epiſtles: and <hi>Ezra</hi> here; for hee ſtill involves himſelfe.</p>
+            <p>Let us write after theſe Copies.
+<note place="margin">Applicat.</note> Every man hath a County Palatinate within his boſome; and may arraign and judge himſelf: and it is our ſecurity ſo to do: If wee judged our ſelves,
+<note place="margin">1 Cor. 11.30.</note> wee ſhould not be judged. He ſhall hereby ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e God a labour:
+<note place="margin">Parcamus <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, quia ſibi <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pe<g ref="char:EOLhyphen"/>percit.</note> 
+               <hi>Let <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpare this man, for hee ſpares <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> himſelf;</hi> as <hi>Aug.</hi> perſo<g ref="char:EOLhyphen"/>nating God, ſayes. Hee that juſtifies himſelf fights with God hand to hand, and is like to be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:113901:21"/>He that lies down at Gods feet, reaches him his hand to lift him up again.
+<note place="margin">Luk. 18.14.</note> 
+               <hi>Hee that humbleth himſelf ſhall be exalted.</hi>
+            </p>
+            <p>But wee muſt look a little neerer to theſe words; <hi>For our iniquities have we been delivered.</hi>
+            </p>
+            <p>There is a deliverance from evill, and to evill; the later is before us now: It is a delivery, a traditi<g ref="char:EOLhyphen"/>on, and reſignation of us over to miſery.</p>
+            <p>And the whole nation were paſſive in it: In this pronoun <hi>(wee)</hi> are concluded all beſide the Kings and Prieſts here ſpecified. Each ſort had peculiar ſins for which they ſmarted; and all for all: <hi>From the crown of the head to the ſeale of the foot there is us ſound part,</hi>
+               <note place="margin">Iſa. 1.5, 6.</note> as <hi>Eſay</hi> complains.</p>
+            <p>Sometimes a Nations ſickneſſe begins at the head,
+<note place="margin">Obſervat.</note> 
+               <hi>the Rulers:</hi> as the Shunamites child complain'd of his head. Sometimes at the feet, the inferiours; as <hi>A<g ref="char:EOLhyphen"/>ſa</hi>'s diſeaſe was in his feet. Sometimes the upper and lower parts of the body politique mutually con<g ref="char:EOLhyphen"/>tribute to each others ruine; as wee read, that the ſins of the people moved God to ſuffer Satan to tempt <hi>David</hi> to number the people;
+<note place="margin">2 Sam. 24.1, 2.</note> and then <hi>Davids</hi> ſin determined in a plague on his people by paſſion; on himſelf by compaſſion and ſympathy: as the ice begets the water, and the water the ice: As in the naturall body the ſtomack ſends up vapours to the head, and the head ſends down <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and di<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lations on the ſtomack and kings: As the Sun ex<g ref="char:EOLhyphen"/>hales vapours from the earth, and returns them in thunder and tempeſts.
+<note place="margin">Note <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.9.</note> However it <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Note we <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of our ſelves<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:113901:21"/>Eagle peirct thorow with a dart ſea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hored from her own wing; and the mot the word too,
+<note place="margin">Propriis trans<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gimur alis.</note> 
+               <hi>We are tranſ<g ref="char:EOLhyphen"/>fixt by our own feathers.</hi> As <hi>Noah</hi> was drunk with his own wine; <hi>Goliah</hi> beheaded by his own ſword; the roſe deſtroid by the canker bred in it ſelf; the breſt by a ſelf-bred wolfe; the apple by the worm; the dams belly eaten thorow by the young vipers; <hi>A<g ref="char:EOLhyphen"/>grippina</hi> kild by <hi>Nero,</hi> to whom ſhee gave breath: So are we undone by our ſelves. Sin like a Frier, whips it ſelfe: Puniſhment is connate, innate to ſin:
+<note place="margin">
+                  <hi>Connatum, i<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> tum ſceleri ſup<g ref="char:EOLhyphen"/>plicium.</hi> Lipſ.</note> 
+               <hi>Fools becauſe of their iniquities art afflicted,</hi> ſaith <hi>David, Pſal.</hi> 107.17, 18. Wee may thank our own folly for our bane.</p>
+            <p>This Point calls more for improving, then proof; thitherward therefore ſhall I apply my ſelf.</p>
+            <p>I foreſaw the time would prevent me; therefore I ſhall endeavour to continue the reſidue of my Text in Application, Generall and Particular.
+<note place="margin">Applicat. 1. Generall.</note>
+            </p>
+            <p>Generall firſt: This Obſervation, like a wel limnd picture, looks on all that look on it: It prompts us all, Rulers, and ruled.</p>
+            <p n="1">1. To juſtifie our God in all his judiciary procee<g ref="char:EOLhyphen"/>dings towards us: So did <hi>David;
+<note place="margin">Pſal. 51.4. Dan. 9.7.</note> That thou maiſt be juſtified, and cleer when thou judgeſt.</hi> So <hi>Daniel; Righte<g ref="char:EOLhyphen"/>ouſneſſe belongs to thee: but to us confuſion of face.</hi> The cup of the bitter waters of <hi>Marah,</hi> and <hi>Meribah,</hi> that we have drunk ſo deep of, is of our own mingling and embittering. The r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds that have ſcourged us are of our own making: Wee have extorted thun<g ref="char:EOLhyphen"/>derbolte out of Gods hand; for hee, like the Bee, ſtings not till provoked: Or like the flint, upon a colidion with the ſteel (our ſteely ſouls) he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſends
+<pb n="26" facs="tcp:113901:22"/>forth ſome haſty ſparks. And therefore,</p>
+            <p n="2">2. Patience well becomes us: It is unequall for the offender to murmur or repine at the offended, and juſtly incenſed party: <hi>I will bear</hi> (ſaith the Church) <hi>the indignation of the Lord,
+<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ic. 7.9.</note> becauſe I have ſinned againſt him.</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>leramus, &amp; to<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ramur.</hi> Tert.</note> We have been long born with, and why ſhould we not bear? Impatience, like the buls ſtrug<g ref="char:EOLhyphen"/>gling in the net, or the birds fluttring in the lime-twigs, troubles, and faſtens us, and engages us the more in affliction:
+<note place="margin">Luk. 21.19.</note> whereas in patience wee poſſeſſe our ſouls (ſaith Chriſt.) By <hi>faith</hi> I poſſeſſe God; by <hi>love,</hi> my brother; and by <hi>patience,</hi> my ſelf.</p>
+            <p n="3">3. Let Gods vindictive juſtice be a reſtrictive to us from adventuring on any unwarrantable courſe; like a Cherubim with a flaming ſword, to guard the way to any forbidden fruit, ſince it is like to coſt us ſo deer.
+<note place="margin">Deut. 29.19.</note> Let us not be ſecure in our ſins, nor bleſſe our ſelves in any way that God curſes; God is merci<g ref="char:EOLhyphen"/>ful, but withal juſt; bountiful, but not laviſh; he wil ſpare till there be no remedy,
+<note place="margin">2 Chr. 36.16.</note> as he did <hi>Iſrael;</hi> but though he hath a leaden foot, he hath an iron hand, as it is ſtoried that <hi>Heruccius</hi> King of <hi>Algiers</hi> had. Patience abuſed converts to fury:
+<note place="margin">Laeſa patientia fit furor.</note> When the ſnow of Mercies melts we are like to have a great flood: And as near as we are within proſpect of Peace and Political happineſs, we may miſs of it; ſince I finde not that our ſharp Phyſick hath kindely wrought with us; Luſt, Pride, Exceſs, Swearing, Lying, Deceit, Gaming, Voluptuouſneſs, and others ſins National (it were eaſie to be endleſs in naming but their kindes) ebb not at all, but flow, and are at a Spring-tide. We are the more unſafe for being
+<pb n="27" facs="tcp:113901:22"/>ſecure: When <hi>Adam</hi> was aſleep he loſt a Rib; it is ſad when irrecoverable ruine is the firſt ſign of danger: Nor let us bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſter up ourſelves with our Spiritual Church-priviledges, as the Ordinances or any other; they cannot exempt or ſhield us if we ſtill provoke; There i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no Sanctuary, no Prote<g ref="char:EOLhyphen"/>ction for Preſumption: As the Ark could not ſave <hi>Iſrael</hi> from the <hi>Philiſtines<g ref="char:punc">▪</g>
+               </hi> nor the Temple the <hi>Jews</hi> from the <hi>Romans;</hi> nor the <hi>Palladium Troy</hi> from the <hi>Grecians;</hi> nor the Tombs of Martyrs <hi>Rome</hi> from the <hi>Goths,</hi> think not that Gods Quiver is ſpent;
+<note place="margin">Rom. 2.5.</note> we read of an inexhauſt treaſury of wrath.</p>
+            <p>My Text inſtances in divers Arrows feather'd with Wrath, and headed with Ruine: Be pleaſed to caſt your eys on the Text as I proceed.</p>
+            <p>What think: you of being delivered to men,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> whoſe very mercies <hi>David</hi> calls cruelty? And there<g ref="char:EOLhyphen"/>fore <hi>Nebuchadnezzar,</hi> I conceive, ſeal'd the D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of lions wherein <hi>Daniel</hi> was, becauſe he thought it ſafer to truſt him with the Lyons, then with his implaca<g ref="char:EOLhyphen"/>ble Enemies.</p>
+            <p>To be delivered to the Sword, ſad experience,
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> the Miſtris of Fools, hath ſhewn what that is better then I can deeypher it. <hi>Joel</hi> calls the day of War,
+<note place="margin">Joel 2.1, 2. 2 King. 8.12.</note> a day of gloomy and thick pitchy darkneſs:
+<note place="margin">
+                  <hi>Aconitum hoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> litatis.</hi> De Pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> 
+               <hi>Eliah</hi> wept to think of it; the poyſoned kemlock of Ho<g ref="char:EOLhyphen"/>ſtility, <hi>Tertullian</hi> calls it;
+<note place="margin">Complicatiſſim plaga.</note> It is a ſtroke or plague like <hi>Pandora's</hi> Box; a compound of Plagues; a Bar to Religion: The Temple went ſlowly on, when they were fain to fight with one hand and build with the other. It is ſaid, 1 <hi>Kin.</hi> 5.3. <hi>David could not build Gods houſe for the Wars about him;</hi> It ſilences Laws, cuts the
+<pb n="28" facs="tcp:113901:23"/>ſinews of Traffique and Trading, ſtifles Arts and Learning; thovgh ſome Birds of prey can fatten in hard weather, when all other Fowl are pined. When you hear that in the Troian Wars were ſlain 870000 <hi>Greeks</hi> and 670000 <hi>Troians;</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſter Coſ.</note> That <hi>Oſtend,</hi> though a little Fort, was ſo great a Grave as to devour 120000 perſons; That <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lyman</hi> afore <hi>Vienna</hi> laid dead bodies in ditches level with the top of the Walls of <hi>Vienna;</hi> That 1000000 were ſlain in the Civill Warres of <hi>France;</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lignius.</note> and 20000 Churches equalled with the ground; That in our P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arſalicke fields in the quar<g ref="char:EOLhyphen"/>rels between the Houſes of <hi>York</hi> and <hi>Lancaſter,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>terus.</note> an 100000 fell, ſo that the red Roſe began to be white with the blood that it had loſt, and the white Roſe red with the blood it had ſhed, and 10000 Families were thereby rooted out:
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us.</note> And that red Horſe hath been ſome years trampling of late this Kingdom under foot: Can we finde in our hearts ſtill to hug and harbor our old Iniquities, and to do what in us lies to move God to ſpin out this War to an eternity?</p>
+            <p>To be delivered to captivity and bondage, to be flaves (it may be) to ſlaves, however to perſons ſuckled by Tygers, of Adamantine hearts: well might the Prophet forbid to weep for the dead, and bid <hi>Weep <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y for them that were going away.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r. 22.10.</note> God can reduce us to this.</p>
+            <p>To be delivered to ſpoil, your Houſes, Cabinets ri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arbarus has ſe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es, &amp; culta <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>valia miles,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c.</note> your <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ranaries emptied for others uſes; to plant, and not to taſte of the frai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; to ſee the pitch<g ref="char:EOLhyphen"/>fork in an hour ſcattering what in many yeers your providence hath rak'd together, which will make
+<pb n="29" facs="tcp:113901:23"/>your ey-ſtrings crack; yet to this can God bring us.</p>
+            <p>To be delivered to ſharne and confuſion of face; to be a pity to our friends, a ſcorn to our foes; to be a by-word, an hiſſing to forrain nations; to be abject objects for others to whet their wits, and to ſpend their dark ſarcaſmes upon; that our names ſhould rot; or, if remembred by poſterity, with reproach, as <hi>Pilats</hi> in the Creed. Nothing pierces ingenuous ſpirits more then ſhame and ſcorn:
+<note place="margin">Heb. 11.36.</note> 
+               <hi>mockings</hi> the A<g ref="char:EOLhyphen"/>poſtle thought <hi>cruell:</hi> No ſword ſo ſharp as the tongue, it flies lightly; but wounds deeply:
+<note place="margin">Leviter volat, graviter violat.</note> to all theſe diſaſters can God e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſe us.</p>
+            <p>Oh let us not continue to be cruell to our ſelves; but for your own ſakes, (if you value not Gods ho<g ref="char:EOLhyphen"/>nour) for the wives fake of your boſome, for your childrens ſake which you pretend to tender as the apple<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of your eyes, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ignet on your right hand, your heart-ſtrings, lay what I have ſaid to heart; if not, we can but weep in ſecret for you.</p>
+            <p>To confeſſe ſin this day, and to perſiſt in it, is to pro<g ref="char:EOLhyphen"/>feſſe, This I have done, this I will do. To beat our breſts, and not to reform, is to harden them. But I muſt not forget my main errand hither.</p>
+            <p>You (Right Honourable) have ſummon'd mee to attend you in this ſervice;
+<note place="margin">2. Particular.</note> and I know you would not have me prevaricate, or forfeit my truſt. Give me leave to make my humble addreſſes to you in ſe<g ref="char:EOLhyphen"/>rious exhortation. My Text ſpecifies the guilt of Kings, and Prieſts, and people; and the third verſe af<g ref="char:EOLhyphen"/>firms, that the Princes and Rulers were chief in the treſpaſſe. I come not hither to upbraid, but with all humility to adviſe you to what you are neerly
+<pb n="30" facs="tcp:113901:24"/>concern'd in, both in reference to your ſelves and us, for the averſion of that wrath, that is gone out againſt us, and is to be read in legible characters on us; and for the prevention (as much as in you lies) of that inundation of miſeries, that it may be the heavens are big with, ready to be delivered, if your failings prove the mid-wives. Kings and Prieſts are in the Text, and Rulers in the Chapter; but Kings here are none, and I hope no Prieſts, therefore I ſhall meddle neither with Crowns nor Miters; I love not to ſpeak to the abſent, but the preſent Rulers; here are a ring of Auditors, and you the Diamond. Let me mind you what Jewels are a gloſſe to your Corc<g ref="char:EOLhyphen"/>nets.</p>
+            <p n="1">1. <hi>Prudence,</hi> You are our heads, and the head is the Throne of Prudence. It is prudence to be able to diſcern, between perſons and things that differ; between tenderneſſe of Conſcience, and obſtinacy; between zeal and ſpleen: <hi>Doeg</hi> is called a lyar, though he ſpake truth of <hi>David,</hi>
+               <note place="margin">Pſal. 120.3.</note> becauſe he ſpake not truth in love of truth, but ſpleen to <hi>David;</hi> to diſcerne between ſelf-ſeeking Privadoes, and pub<g ref="char:EOLhyphen"/>like Spirits; between true Church and State con<g ref="char:EOLhyphen"/>verts, and complyers with times, ſhifting of ſayles with every wind, calculating for every Meridian; that when time was, would bow to the Altar, now would pull downe Churches; that would in Pulpit ſhrivell up all Prayer, and confine it to the Lords prayer, and now will cenſure the ſaying of that Prayer. Your ſtrength lies in your head, as <hi>Sam<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns</hi> in his hair. When <hi>Severus</hi> was ill of his feet, and ſome for that thought him unfit to governe, he
+<pb n="31" facs="tcp:113901:24"/>replyed that he govern'd with his head, and not with his feet. And you had need of your eies in your head, that ſit at helme, and ſteere between ſo ma<g ref="char:EOLhyphen"/>ny rocks and ſands.
+<note place="margin">1 Kin. 3.9, 10, 11.</note> God was in love with <hi>Solomons</hi> requeſt, who wiſhed nothing more, and nothing elſe but wiſdom to manage his affairs.</p>
+            <p>Secondly, another ſparkling Jem is Juſtice,
+<note place="margin">Juſtice.</note> with<g ref="char:EOLhyphen"/>out which prudence is but Achitophelian, Machia<g ref="char:EOLhyphen"/>velian, Jeſuiticall craft.
+<note place="margin">Job. 29.14. Plutarch. Moral. l. 3.</note> 
+               <hi>Job</hi> counted Juſtice his Robe and Diadem. <hi>Philip</hi> of Macedon diſplaced a Magiſtrate becauſe he coloured his beard, he was jealous he might colour a cauſe too. You muſt be as able, ſo men of truth, and unſwayed integrity;
+<note place="margin">Exod. 18.21.</note> ſuch as <hi>Jethro</hi>'s Juſticers were to be.</p>
+            <p n="1">1. It is Juſtice to be acceſſible, that Petitioners may come at you, and not your doors guarded with living, as <hi>Solomons</hi> Throne was with liveleſſe Lions. As it was ſaid to <hi>Auguſtus,</hi> he that dares approach thee, ſeems not to know thy greatneſſe; he that dares not, ſeems not to know thy goodneſſe. Gods preſence-chamber is alwaies open.</p>
+            <p n="2">2. It is Juſtice to have two eares,
+<note place="margin">Si ſat accuſaſſe, quis erit inno<g ref="char:EOLhyphen"/>cens?</note> one for the De<g ref="char:EOLhyphen"/>fendant, as well as one for the Plaintiffe. For though it be true, if it be enough to denie, who will be guilty? it is as true, if it be enough to accuſe, who ſhall be innocent? <hi>Ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> was accus'd ninety times, and his integrity ſtill brought him off.</p>
+            <p n="3">3. It is Juſtice to awar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the accuſers the ſame pu<g ref="char:EOLhyphen"/>niſhment they intended the accuſed, in caſe they make not their accuſation good. The geeſe in the Capitol at <hi>Rome</hi> were to be beaten if they gaggled without cauſe, though they once ſav'd the Capitol
+<pb n="32" facs="tcp:113901:25"/>by gaggling; and the dogs legs were to be broken that bark'd when no danger appreach'd: ſuch pu<g ref="char:EOLhyphen"/>niſhment (ſaith <hi>Cicero</hi>) do aſperſers in Courts of Ju<g ref="char:EOLhyphen"/>dicature deſerve:
+<note place="margin">
+                  <hi>Pro</hi> Roſc. A<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erin. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unes venatici.</hi>
+               </note> and then thoſe ſetting-dogs durſt not cauſleſly hurry innocence before your tribunals; detracters are more bound to reſtitution than theevs, by how much the name preponderates the eſtate, if at leaſt there can be any recompence for defama<g ref="char:EOLhyphen"/>tion. There are three things that may not be dallied with,
+<note place="margin">
+                  <hi>Non patitur lu<g ref="char:EOLhyphen"/>dum fama, fides, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>culus.</hi> Tertul. <hi>de</hi> Pall. c. 5.</note> our faith, our eye, and our reputation.</p>
+            <p>It is Juſtice to proportion the puniſhment to the offence. He is a ſtrange Juſticer that knocks out a Mans braines to kill a Waſpe on his forehead. As <hi>Pollio</hi> caſt his ſervant to the Lampries, for breaking a glaſſe. As the grand Seignior of the Turks ripped nine Eunuches for one Melon that was eaten with<g ref="char:EOLhyphen"/>out leave.</p>
+            <p n="5">5. It is the life-blood of Juſtice to expedite Ju<g ref="char:EOLhyphen"/>ſtice, and not to turn it into Wormwood by unjuſt ſentences, or into Vinegar by delaies: to ſuffer poor ſouls to lie longer languiſhing at hopes hoſpital, than needs.</p>
+            <p n="6">6.
+<note place="margin">Exod. 23.2, 3. Prov. 24.23.</note> It is Juſtice to be impartiall, and not reſpect Perſons, but Cauſes. <hi>Commineus</hi> complains, that many mens Offices and Lands were taken from them for running away in the battell between <hi>Lewis</hi> the ele<g ref="char:EOLhyphen"/>venth, and the Burgundians, and given to thoſe that ran nine miles farther than they.</p>
+            <p n="3">3.
+<note place="margin">Mercy. Pſal. 10<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1.</note> But this Juſtice muſt be intermix'd with mercy and moderation: <hi>My Song ſhall be of Mercy and Judge<g ref="char:EOLhyphen"/>ment</hi> (ſaith <hi>David.</hi>) The robes of Judgement are uſually red beſtrea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with white, the one the colour
+<pb n="33" facs="tcp:113901:25"/>of ſeverity, the other of mercie. You are the fa<g ref="char:EOLhyphen"/>thers of your Country (ſtil'd Patricians among the Romans) we would look on you with veneration, not ſlaviſh terror. You muſt bear with us, and bear us in your armes by love, in your hearts by care,
+<note place="margin">Male terrore<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> neratio acqui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tur; timor abi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſecedas m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>net<g ref="char:EOLhyphen"/>mor in odium, mor; timor in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>veren<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iam ver<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tat Max.</note> on your ſhoulders by patience. Reverence as ill pur<g ref="char:EOLhyphen"/>chas'd by terrifying, when you are gone, fear goes too, but love will remrine; fear converts to hatred, but love to veneration, ſaith <hi>Plinius</hi> 2. Some ſeeme ſo to be angry with others vices, as if they envied them <hi>(idem)</hi> A debonaire gentlenes is a grace to you;
+<note place="margin">Sic iraſcuntur quaſi invideant Geminio. Id. Art<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> when you temper and allay your ſevere gravity with ſo much mildneſſe as may weigh againſt it. It will be rare in you ſo to abſtain from ſin, as if you par<g ref="char:EOLhyphen"/>doned no man, and yet ſo to pardon, as if your ſelves were daily offenders: you ſhould be our <hi>Noahs</hi> putting forth your hand to pluck oppreſt ones into the Arke of your protection, when floods are a<g ref="char:EOLhyphen"/>broad.</p>
+            <p>
+               <hi>Jerome</hi> wiſhed <hi>Pammachius</hi> a noble man,
+<note place="margin">Coecorum ocul<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> manus d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bilium claudorum pes. Juſtis ſuppliciis illachrym<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vit.</note> to be an cie to the blind, an hand to the weak, and a foot to the lame. <hi>Veſpaſian</hi> would mourne over juſt puniſh<g ref="char:EOLhyphen"/>ments, and when he was to ſigne the death of any, would ſay, I would I could not a letter of the book.
+<note place="margin">
+                  <g ref="char:V">Ʋ</g>tinamneſciren<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> literd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> What difference between a man, and a brazen ſtatue of man, but that one hath bowells, and the other hath none? <hi>Sylla</hi> was a divel to command <hi>Marcus Pletorius</hi> to be ſlain on the place,
+<note place="margin">
+                  <hi>Nov<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> miſeri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dia.</hi> Val. Max. <hi>l.</hi> 9. <hi>c.</hi> 2.</note> becauſe he fell into a ſwoun at the ſight of the execution of <hi>Marius,</hi> a new puniſher of mercie. The firſt that ever was reveng'd on vertue. It was a ſad thing that the Jews were fain to purchaſe leave to weep. You reſemble God
+<pb n="34" facs="tcp:113901:26"/>whom you repreſent, no way neerer than by mer<g ref="char:EOLhyphen"/>cy; the lovelyeſt of his Attributes, and ſhould he take his advantage,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; nolle <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bile. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is eſt pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe Leoni.</note> we were all loſt men. You are never more like your ſelves, than when mercifull: it is noble not to do all you are able. To lie pro<g ref="char:EOLhyphen"/>ſtrate to a Lyon ſaves the life. To be on the higher ground, ſhould be no advantage to a generous ſpirit: onely cowards, and the ignoble are cruel. The an<g ref="char:EOLhyphen"/>cient Nobility of Rome,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t. Qu. Rom. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>27. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>v. 12.1.</note> and Arcadia, wore moons on their ſhooes, to mind them of the worlds muta<g ref="char:EOLhyphen"/>bility. The higheſt may come to ſtand in need of mercy; with what hearts can they expect it, what face ask it,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m. 2.13. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iv. Decad. 1.</note> that denyed it? Judgement mercileſſe to them that ſhow no mercy. <hi>Appius</hi> took away all appeals in caſe of life and death, and when he came to need an appeal, he was juſtly denyed it. <hi>Eutro<g ref="char:EOLhyphen"/>pius</hi> endeavoured to take away the relief of Sanctu<g ref="char:EOLhyphen"/>aries, and himſelf was afterward hail'd out of San<g ref="char:EOLhyphen"/>ctuary, from the very hornes of the Altar.
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> Pop. 36.51.</note> To ſhow mercy (ſaith <hi>Chryſoſtome</hi>) is a greater worke than to build magnificent Temples, nay, to raiſe the dead.</p>
+            <p>Fourthly, Shall I adde love and inclineableneſſe too, and ſtudiouſneſſe of peace adornes you. War (I truſt) ſhall ever be your refuge, never your choice. To war as to marriage, not luſt of gaine, or diſſention, but procreation of peace ſhould be the motive.
+<note place="margin">
+                  <hi>Eſto bellando pa<g ref="char:EOLhyphen"/>cificus.</hi> Aug.</note> Carry peace in your hearts, when the ſword is in your hands. <hi>Hercules</hi> club was made of the Olive, the embleme of peace: it is a fit ſpeech for a Spaniſh mouth, that the ſmell of Gun-pow<g ref="char:EOLhyphen"/>der in the Field, is as ſweet as of incenſe at the Al<g ref="char:EOLhyphen"/>tar.
+<pb n="35" facs="tcp:113901:26"/>Love of blood-ſhed becoms the Scarlet whore of Rome, whoſe Religion was planted in, and watered with blood. Let the killing of twelve mil<g ref="char:EOLhyphen"/>lions in two and forty yeers in the Weſt-Indies, at<g ref="char:EOLhyphen"/>teſted by <hi>Bartholomeus A Caſa</hi> a Biſhop there; Let French-maſſacres, Sicilian even-ſongs, Spaniſh In<g ref="char:EOLhyphen"/>quiſitions (which <hi>Heinſius</hi> aptly calls the fourth Fury) let theſe ſtuffe Popiſh Chronicles, and not furniſh out ours.</p>
+            <p>Fifthly,
+<note place="margin">
+                  <hi>Nemo regere poteſt, niſi qui &amp; regi</hi> Sen. <hi>de Ir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </note> Patience and temper-render you honou<g ref="char:EOLhyphen"/>rable in mens eies, paſſion expoſeth to contempt. None can rule well that cannot rule themſelves, but are overruled by paſſion. He that cannot guide a boat in a River, is unfit to ſteere a ſhip in a ſtorme. It would make the moſt furious ſpirit diſpaſſionate to hear of the great cruelty of the Emperor <hi>Theodo<g ref="char:EOLhyphen"/>ſius,</hi> when he gave life to his Paſſion, though other<g ref="char:EOLhyphen"/>wiſe he be by <hi>Ambroſe</hi> and others, fam'd for a moſt Temperate, Mercifull, Religious Prince; becauſe a ſervant of his was ſlain in an uprore in Theſſalo<g ref="char:EOLhyphen"/>nica, he in a rage cauſed a Maſſacre to paſſe on the City, ſo that in three houres ſeven thouſand inno<g ref="char:EOLhyphen"/>cents were butchered. Ye had need ſet a ſtrong guard on your paſſions.</p>
+            <p>Sixthly, Humility, lowlineſſe becomes the high as well as the low,
+<note place="margin">
+                  <hi>Non magni<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>co ſed tumor.</hi> Sen. <hi>Nobilis facta humilitate nobi<g ref="char:EOLhyphen"/>lier.</hi> Hier. Epita. Marcel <hi>Inopum cellas dignanter intr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>cas.</hi>
+               </note> your Saviour condeſcended to waſh <hi>Judas</hi> feet, thoſe feet that trudged up and down to betray him, and that ſoyl off, which he contracted with thoſe walkes. Pride is no true great<g ref="char:EOLhyphen"/>neſſe, but a ſwelling excreſcence. Nobleſſe is by humility made more noble. It was <hi>Jeromes</hi> advice to <hi>Pammachius,</hi> Vouchſafe to enter ſomtimes the
+<pb n="36" facs="tcp:113901:27"/>loweſt cells of the meaneſt. The proud in aſcend<g ref="char:EOLhyphen"/>ing, deſcend; the humble in deſcending, aſcend in the eſteem of God, and all good men.</p>
+            <p>Seventhly, Religion deeks ye. <hi>Jethro</hi>'s Magi<g ref="char:EOLhyphen"/>ſtrates were to be men fearing God;
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xod. 18.21. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emmata quid <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ciunt? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iremur te non <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a.— miſerum <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> aliorum in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mbere famae.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uvenal. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>abiles quadam <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ceſſitate con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ringuntur, ne <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> antiquorum <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>robitate dege<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rent.</hi>
+               </note> though you are Gods before men, You are but men before God. Plead not your deſcent, unleſſe you anſwer the worth of your Predeceſſors: Let not that be eſcheat and buried with the owners. We had rather admire you, than your ſtem: it is wretched to gliſter with borrowed luſtre. Nobles (ſaith <hi>Hierome</hi>) are conſtrained by a kind of neceſſity not to degene<g ref="char:EOLhyphen"/>rate from the probitie of their Anceſtors: Elſe as the people did worſhip <hi>Iſis,</hi> and not the creature that bore the image: think when we ſhow you re<g ref="char:EOLhyphen"/>verence, we mean it to your Anceſtors. As Ma<g ref="char:EOLhyphen"/>riners, have your eie upon heaven, when your hand is on the helme. Why ſhould not great and good ſtand together? God is <hi>Optimus Maximus,</hi> Beſt and Greateſt: and they have met and been concentred in men. As <hi>Joſeph, Heſter, Morde<g ref="char:EOLhyphen"/>cai, Obediah, Nehemiah, Daniel, the Lord Depu<g ref="char:EOLhyphen"/>tie of Cyprus in the Acts,
+<note place="margin">Acts 8.27. Phil. 4.22.</note> the E<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ch of Queene Can<g ref="char:EOLhyphen"/>dace, Flavianus in Veſpaſianus Court, Derotheus in Diocleſians, Terentius in Valentinians</hi> durſt be good. Indeed, there is no true greatneſſe disjoyned from goodneſſe.
+<note place="margin">Exod. 30.15. <hi>Gratius einomen <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> quem p<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſtatis.</hi> Apol. adv. Gen. c. 34.</note> Every man is as he is in Gods books. <hi>Tertullian</hi> ſaid of <hi>Auguſtas,</hi> the name of Pietie was more gracious to him, than of Power. The holyeſt man is the nobleſt on earth, ſaith <hi>Clement,</hi> alluding to that of <hi>Solomon,</hi> Proverbs <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.26. <hi>The Righteous is better than his Reighbour.
+<pb n="37" facs="tcp:113901:27"/>Hierome</hi> would ſay of <hi>Paula,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Strom. 7. <hi>Genere nobilis, ſanctitate nobi<g ref="char:EOLhyphen"/>lior. Neſcio quo pa<g ref="char:EOLhyphen"/>cto veritas in Nobili plus pla<g ref="char:EOLhyphen"/>cet; forte quia plus cares.</hi>
+               </note> a virgin deſcending on the father ſide from <hi>Aenaeas,</hi> on the mothers from <hi>A<g ref="char:EOLhyphen"/>gamemnon, Shee was noble in Stock, but nobler in ſanctitie.</hi> And <hi>Bernard</hi> wittily to <hi>Sophia</hi> the virgin, <hi>God is no reſpecter of perſons; yet I know not how goodneſſe in the Noble takes us moſt; perhaps becauſe it is uſually more wanting in them.</hi>
+            </p>
+            <p n="8">8. As you muſt be good; ſo do good, be devoted to the publick good; the one profits onely your ſelves, the other us all. Be not felfiſh, tread not in<g ref="char:EOLhyphen"/>wards. <hi>Pompey</hi> being upon an expedition to Sicilie of purveyance for corn, when it grew ſcarce in Rome, and diſſwaded by his friends,
+<note place="margin">Neceſſe eſt ut e<g ref="char:EOLhyphen"/>am, non ut vi<g ref="char:EOLhyphen"/>vam.</note> objecting the danger of the voyage, anſwered them, <hi>It is more ne<g ref="char:EOLhyphen"/>ceſſary that I ſhould goe, then live.</hi> An heavie peece of iron, like a good Patriot, will leave its particular re<g ref="char:EOLhyphen"/>lation to the load-ſtane; and falling, expreſſe its homage to the earth, the common centre of heavie bodies.</p>
+            <p>If your Lordſhips be inveſted with theſe qualifi<g ref="char:EOLhyphen"/>cations, and expreſſe them; it will never be ſaid, that the unjuſt are ſet over the Law, the impious o<g ref="char:EOLhyphen"/>ver Religion, ignorance over Learning, or monſters over men: And it may be written over your Houſe door, as over the Court of Juſtice in Zant,
+<q>
+                  <l>Hic locus odit, amat, punit, conſervat, honorat,</l>
+                  <l>Nequitiam, pacem, crimin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, jura, probos.</l>
+               </q>
+            </p>
+            <p>
+               <hi>This place hates wickedneſſe, loves peace, puniſhes guilt, preſerves law, and right, and honours, and incourages the good.</hi>
+            </p>
+            <p>We have all of all ſorts heard our duties ſet out; and had I time to ſet them on by perſwaſive, puthe<g ref="char:EOLhyphen"/>ticall
+<pb n="38" facs="tcp:113901:28"/>convictive incentives, I cannot ſelect better then the laſt verſe of my Text offers to my hand, coming as uninforced, as honey dropping from the comb.</p>
+            <p>Conſider what wee have, and what wee would have; what wee injoy, and what wee-expect and deſire; we may eccho forth <hi>Ezra</hi>'s word here.</p>
+            <p>Wee have reaſon to celebrate (as well as <hi>Ezra</hi> or <hi>Iſrael</hi>) the <hi>Grace</hi> ſhewn to us from the Lord our God.
+<note place="margin">
+                  <hi>For a little ſpace <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ath grace been <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hewed.</hi> Grace.</note> Hee hath loved this Kingdome, becauſe hee would love it; the ground of his love is in his im<g ref="char:EOLhyphen"/>mutable ſelf, and not in us: as it is ſaid of his love to <hi>Iſrael,
+<note place="margin">Deut. 7.7, 8.</note> The Lord did ſet his love upon you, becauſe hee loved you.</hi> And what is ſuch a love but free-grace? For we were fitter to ſet his foot, then his heart upon.</p>
+            <p>And this grace could no more conceal it ſelf then the Sunne;
+<note place="margin">Shewed.</note> it hath ſhewn it ſelf in ſo many rivu<g ref="char:EOLhyphen"/>lets and ſtreams; in ſo many mercies, full, choice, ſeaſonable, melting mercies; that wee (if any Na<g ref="char:EOLhyphen"/>tion under heaven) may ſay wee have comprehen<g ref="char:EOLhyphen"/>ded (or rather been comprehended by) <hi>the breadth, and length, and depth, and height of Gods love.</hi> The Phi<g ref="char:EOLhyphen"/>loſophers tel us but of three dimenſions; the Apo<g ref="char:EOLhyphen"/>ſtle hath found out four in Gods mercy, <hi>Eph.</hi> 3.18.</p>
+            <p>And wee have had a large ſhare in this <hi>grace</hi> that <hi>Ezra</hi> memorizeth in the Text: I'll walk on his grounds. In grace, mercy remembred amidſt judge<g ref="char:EOLhyphen"/>ment: in allayes, remitting and relaxation of Gods heavie hand. Hee hath not let out all his wrath; but corrected us in judgement, weight, and mea<g ref="char:EOLhyphen"/>ſure:
+<note place="margin">
+                  <g ref="char:V">Ʋ</g>ltra, citra con<g ref="char:EOLhyphen"/>digmem.</note> His puniſhents fall on this ſide, his mercies goe beyond our merits, as <hi>David</hi> ſings, <hi>Pſal.</hi> 103.10.
+<pb n="39" facs="tcp:113901:28"/>Hee takes away a part, that might have ſtript us of all, as <hi>Anitus</hi> ſaid of <hi>Alcibiades</hi> in <hi>Plutarch.</hi> He ſends a feaver, that might caſt into everlaſting burning; He ſcourges with rods, that might with Scorpions; Hee begins, that might make an end of us: He hath afflicted us three or four yeers with a Civill ſword, that might have delivered us to a ſeventy yeeres Babyloniſh Captivity.</p>
+            <p>A ſhare wee have had in his reſerving-mercy;
+<note place="margin">
+                  <hi>Leaving us a remnant to e<g ref="char:EOLhyphen"/>ſcape.</hi> Iſa. 6. ult.</note> 
+               <hi>leaving us a remnant to eſcape:</hi> but decimating, ty<g ref="char:EOLhyphen"/>thing us; when hee might have left us but a tenth, as hee did to <hi>Iſrael.</hi> Nay, wee were all forfeited to his juſtice: hee hath laid no more on us then hee hath enabled us to bear, and given us a door, a paſ<g ref="char:EOLhyphen"/>ſage out, as S. <hi>Paul</hi> ſpeaks, 1 <hi>Cor.</hi> 10.13.</p>
+            <p>A ſhare in his ſetling grace:
+<note place="margin">
+                  <hi>A nail in,</hi> &amp;c. Jer. 22.23.</note> 
+               <hi>giving us a naile in his holy place,</hi> his Church: <hi>Establiſhing us,</hi> as <hi>Eliakim; Making us a nail in a ſure place.</hi> The Goſpel hath ir<g ref="char:EOLhyphen"/>radiated, and ſhed his cleer beams without ſetting or eclipſe for above four ſcore yeers upon us: We have been a Goſhen; wee have dwelt in his Ta<g ref="char:EOLhyphen"/>bernacle, and holy Hill, as it is promiſed,
+<note place="margin">Pſal. 15.1, ult.</note> though wee have neglected the conditions there ſpecified in the <hi>Pſalm.</hi> Wee have deſerved to be un-nation'd, un-Church'd by a Bill of divorce from heaven; to be tumbled about as a ball into ſtrange lands, as it is <hi>Jer.</hi> 22.18. <hi>Iſrael</hi> complains,
+<note place="margin">Iſa. 63.18.</note> they had poſſeſt the Sanctuary but a little while: Wee cannot ſay ſo.</p>
+            <p>
+               <hi>Ezra</hi> is gratefull in the Text for <hi>grace</hi> a little ſpace: what owe we for ſo long a poſſeſſion?
+<note place="margin">To lighten our eyes.</note>
+            </p>
+            <p>God hath alſo lightned our eyes</p>
+            <p>
+               <pb n="40" facs="tcp:113901:29"/>By outward favours,
+<note place="margin">Sam. 14.29.</note> as <hi>Jonathans</hi> were by ho<g ref="char:EOLhyphen"/>ney; and wee as hee, have received our honey at the end of a rod, that wee might the more va<g ref="char:EOLhyphen"/>lue it.</p>
+            <p>By favours of an higher alloy hee hath lightned our eyes, that had the ſhadow of death upon them: Which was <hi>Oecolampadius</hi> his ſupport (his name ſi<g ref="char:EOLhyphen"/>gnifies a <hi>lamp</hi> or <hi>light</hi>) on his death-bed; who, when his friends aſked him, Whether the light of the candle did not trouble him, clapt his hand on his breſt, and ſaid, <hi>Here I have ſufficient light, the light of Gods countenance.</hi>
+            </p>
+            <p>In a word,
+<note place="margin">To revive our hearts.</note> (to defraud your patience no longer)</p>
+            <p>God hath revived our hearts (as <hi>Ezra</hi> ſpeaks in the cloſe of the Text) wee are even raiſed from the grave of an inteſtine Warre; and comforted with hopes that wee ſhall not, like raiſed <hi>Lazarus,</hi> fall back into the ſame grave again. And this com<g ref="char:EOLhyphen"/>fort, at the height of affliction, is like mercy at the block; like welcome ſhowres to the chopped ground; or like the Sun-beams after this flood: like a ſhadow, a bower againſt ſcorching heat.</p>
+            <p>Man would never thus have ſpared man: and therefore <hi>David</hi> calls his kindneſſe to the houſe of <hi>Saul</hi> (that deſerved ill at his hands) <hi>the kindneſſe of God,</hi>
+               <note place="margin">2 Sam. 9.3.</note> and not of man. Comfort is here enti<g ref="char:EOLhyphen"/>tled <hi>Reviving,</hi> or <hi>Re-enlivening</hi> in the Hebrew Idi<g ref="char:EOLhyphen"/>ome: It is a kinde of reſurrection. But I muſt take leave.</p>
+            <p>Let mee borrow Rhetorick from S. <hi>Paul: I be<g ref="char:EOLhyphen"/>ſeech,</hi>
+               <note place="margin">Rom. 12.1.</note> or <hi>conjure you</hi> (men, brethren, and Fathers) by all theſe mercies and pledges of Gods love; and
+<pb n="41" facs="tcp:113901:29"/>ſuch others as we know not of (for it is with mercy as with the Globe,
+<note place="margin">Terra incognit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> it is thought the unknown part of the world is greater then what is diſcovered) I beſeech you that theſe mercies may be as nails faſte<g ref="char:EOLhyphen"/>ned by the maſter of Aſſemblies (as <hi>Solomon</hi> elegant<g ref="char:EOLhyphen"/>ly) to rivet the former propounded duties into your heads, hearts, and lives; let the mercy of God lead us to ſhame and ſorrow for our ſins; Let Gods Juſtice tutor us to be juſt: Let Gods moderation and for<g ref="char:EOLhyphen"/>bearance make an impreſſion of mercy on us toward each other: and let us not by reiterating, repeating the ſame ſins, be guilty of the worſt of crimes, ingratitude: nor by our obſtinacy, our i<g ref="char:EOLhyphen"/>ron ſinew, exaſperate God to Judgement,
+<note place="margin">Iſa. 28.21. Gen. 3.8.</note> which is called his ſtrange work. Toward which he walked ſo ſlowly, when he went to doomb <hi>Adam;</hi> and de<g ref="char:EOLhyphen"/>ferred it to the cool of the day: whereas he ran to meet the returning Prodigal; and renews his mer<g ref="char:EOLhyphen"/>cies every morning, and is ſtill afore-hand with us: Like the Sun bidding us good morrow afore we are up. That we may not move God to put his mercies into ſuit, and to recover them out of our hands: as God chooſes to expreſſe himſelf by the Prophet,
+<note place="margin">Hoſ. 2.9.</note> 
+               <hi>I will recover my wool, and my flaxe that I lent.</hi>
+            </p>
+            <p>But if neither judgement, nor mercy; neither glad nor ſad tidings; neither the dark nor the bright ſide of the cloud of Providence be operative with us: you put your Miniſters to a ſtand, and poſe us; who with <hi>Moſes</hi> and S. <hi>Paul</hi> would have our owne <hi>Names blotted out of the book of life,</hi> aſſoon as yours,
+<note place="margin">Exod. 32.32. Rom. 9.3.</note> if we could help you, but Gods counſel ſhall ſtand. However we by dealing freely with you, ſhall free our owne
+<pb n="42" facs="tcp:113901:30"/>ſoules from being guilty of your blood: And as the Prophet incourages himſelf, though once he thought to give over preaching, conceiving he laboured and expended his ſtrength in vaine:
+<note place="margin">Iſa. 49.4.</note> Well, <hi>Yet my worke is with the Lord, and though, Iſrael be not gathered, my reward is with my God.</hi> I cloſe with that of S. <hi>Paul</hi> to the Corinthians,
+<note place="margin">1 Cor. 10.15.</note> 
+               <hi>I ſpeak to men of underſtanding, judge ye what I ſay.</hi>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113901:30"/>
+         </div>
+      </body>
+   </text>
+</TEI>
